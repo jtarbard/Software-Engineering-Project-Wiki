@@ -4,7 +4,7 @@
 **Location:** EC Stoner, Long Room\
 **Author:** Jasmine
 ## Attendees
-Dante, Lewis, Li, Jasmine, Jason, Vincent
+Dante, Lewis, Li, Jasmine, Jason, Vincent.
 
 ## Follow-up
 **Delivered:**
@@ -33,13 +33,15 @@ Discuss research/requirements findings.\
 Vincent\
 **Discussion:**\
 Jason and Vincent were unable to perform their SQIRO at the local gym due to store Ciara.\
-**Conclusion:**
+**Conclusion:**\
+Further action needs to be taken in regards to research/requirements.
 
 | Action Items:  | Assignee(s): | Deadline: |
 |:-----------------------|:---------------------|:----------------|
 |Research a gym|Lewis, Li|15/02/20|
 |Research a gym|Jason, Vincent|15/02/20|
 
+---
 **Agenda Item:**\
 Finalise software/documentation options.\
 **Presenter:**\
