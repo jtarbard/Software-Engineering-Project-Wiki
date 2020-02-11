@@ -1,5 +1,5 @@
 # Team Meeting // 01
-**Date:** 06/02/2020\
+**Date:** 06/02/20\
 **Time:** 14:00\
 **Location:** EC Stoner, Long Room\
 **Author:** Jasmine
@@ -12,7 +12,7 @@ Confirm choice of project brief from the two provided options: gym IT system or 
 
 ## Minutes
 **Agenda Item:**\
-Project Breif.\
+Project Brief.\
 **Presenter:**\
 Jasmine.\
 **Discussion:**\
