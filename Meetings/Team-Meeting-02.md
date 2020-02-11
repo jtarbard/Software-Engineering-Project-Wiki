@@ -13,15 +13,15 @@ Dante, Lewis, Li, Jasmine, Jason, Vincent.
 |------------------------------------------|------------------------------|----------------|----------------|------------|
 | Project brief                            | Read gym brief               | Entire team    | Entire team    | 11/02/20   |
 | Outline project sprints                  | Research a gym               | Dante, Jasmine | Dante, Jasmine | 11/02/20   |
+| Outline project sprints                  | Research a gym               | Lewis, Li      | Lewis, Li      | 11/02/20   |
+| Outline project sprints                  | Research a gym               | Jason, Vincent | Jason, Vincent | 11/02/20   |
 | Stack and documentation software options | Setup base gitlab repository | Jasmine        | Vincent        | 11/02/20   |
 
 **Not Delivered:**
 
-| Agenda Item:                             | Action Items:                  | Assignee(s):   | Original Deadline: | Retasked:   |
-|------------------------------------------|--------------------------------|----------------|--------------------|-------------|
-| Outline project sprints                  | Research a gym                 | Lewis, Li      | 11/02/20           | See minutes |
-| Outline project sprints                  | Research a gym                 | Jason, Vincent | 11/02/20           | See minutes |
-| Stack and documentation software options | Research gitlab issue tracking | Entire team    | 11/02/20           | See minutes |   |
+| Agenda Item:                             | Action Items:                  | Assignee(s): | Original Deadline: | Retasked:   |
+|------------------------------------------|--------------------------------|--------------|--------------------|-------------|
+| Stack and documentation software options | Research gitlab issue tracking | Entire team  | 11/02/20           | In minutes. |
 
 ## Agenda
 Discuss research/requirements findings. Finalise software/documentation options. Inform of sprint structure: meetings, scrums, issue tracker use etc. Discuss git version control options. Inform of Gitlab wiki. Discuss build and deploy software. Assign pairs for pair programming. 
@@ -32,14 +32,14 @@ Discuss research/requirements findings.\
 **Presenter:**\
 Vincent\
 **Discussion:**\
-Jason and Vincent were unable to perform their SQIRO at the local gym due to store Ciara.\
+Jason and Vincent were unable to perform their intended SQIRO at the local gym due to storm Ciara. Lewis and Li produced a database schema and an outline of the Vertex centre informed by the project brief and knowledge of the inner workings of a leisure centre.\
 **Conclusion:**\
 Further action needs to be taken in regards to research/requirements.
 
 | Action Items:  | Assignee(s): | Deadline: |
 |:-----------------------|:---------------------|:----------------|
-|Research a gym|Lewis, Li|15/02/20|
-|Research a gym|Jason, Vincent|15/02/20|
+|Upload research to wiki|Lewis, Li|15/02/20|
+|Upload research to wiki|Jason, Vincent|15/02/20|
 
 ---
 **Agenda Item:**\
@@ -52,11 +52,11 @@ Lewis presents his hotel website implemented with Flask, walks through files and
 
 Interface:
 - Languages: HTML/CSS/Javascript
-- Frameworks: Bootstrap/JQuery\
+- Frameworks: Bootstrap/JQuery
 
 Server:
 - Languages: Python
-- Toolkits: SQLAlchemy/ParseLib\
+- Toolkits: SQLAlchemy/ParseLib
 
 Database:
 - Languages: SQLite
