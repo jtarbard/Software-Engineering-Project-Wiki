@@ -1,7 +1,7 @@
 # Team Meeting // 01
 **Date:** 06/02/2020\
 **Time:** 14:00\
-**Location:** EC Stoner, Long Room
+**Location:** EC Stoner, Long Room\
 **Author:** Jasmine
 
 ## Attendees
