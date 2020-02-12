@@ -1,8 +1,7 @@
-# The Edge Investigation
+# Cognitive Walkthrough
+### The Edge Website
 
-## Cognitive Walkthrough -
-
-**Task:** Creating an account\
+**Task:** Creating an account on the website of *The Edge*\
 **Users:** Member of general public\
 **Context:** Desktop computer
 
@@ -61,7 +60,7 @@
 
 ---
 
-**Task:** Purchase membership\
+**Task:** Purchase membership on the website of *The Edge*\
 **Users:** Member of general public\
 **Context:** Desktop computer
 
@@ -131,7 +130,7 @@
 
 ---
 
-**Task:** Book a class\
+**Task:** Book a class on the website of *The Edge*\
 **Users:** Member of general public\
 **Context:** Desktop computer
 
@@ -200,11 +199,9 @@
 
 ---
 
-## Post-cognitive walkthrough heuristic evaluation -
+# Post-cognitive walkthrough heuristic evaluation
 
 Nielsen’s original heuristics for UIs:
-
-
 
 1. Visibility of system status. System keeps informing the user on what’s going on. Feedback provided in reasonable time. 
 2. Match the real world. The system “speaks the users’ language” Real-world conventions. Natural and logical order of information. 
@@ -216,6 +213,8 @@ Nielsen’s original heuristics for UIs:
 8. Aesthetic and minimalist design. Only relevant information is shown. (Each unit of information competes with all other units of information.) 
 9. Help users recognize, diagnose, and recover from errors. Error messages in plain language. Precise indication and constructive suggestion of a solution.
 10. Help and documentation. Minimal, easy to search.
+
+### The Edge Website
 
 <table>
   <tr>
@@ -262,7 +261,8 @@ Nielsen’s original heuristics for UIs:
 </table>
 
 
-## Evaluation of Design Patterns
+# Evaluation of Design Patterns
+### The Edge website
 
 The Edge website has a responsive design which changes between a compact and full view depending on the width of the viewing window.
 
