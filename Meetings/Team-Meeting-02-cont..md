@@ -1,4 +1,4 @@
-# Team Meeting // 03
+# Team Meeting // 02 (cont.)
 **Date:** 12/02/20 \
 **Time:** 13:00\
 **Location:** EC Stoner, Long Room\
