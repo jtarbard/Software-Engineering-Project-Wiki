@@ -72,7 +72,7 @@ Assign pairs and give first assignments from issue tracker.\
 **Presenter:**\
 Jasmine\
 **Discussion:**\
-There will be three pairs, two working on the system with Flask and one designing and implementing a user interface. Lewis and Dante can share their Flask experience by pairing with group members who have not used Flask before.
+There will be three pairs, two working on the system with Flask and one designing and implementing a user interface. Lewis and Dante can share their Flask experience by pairing with group members who have not used Flask before.\
 **Conclusion:**\
 Pairs:
 - Dante and Li
