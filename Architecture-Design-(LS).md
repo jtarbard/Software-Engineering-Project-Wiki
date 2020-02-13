@@ -29,6 +29,7 @@ Italic = Foreign key
 | | = Dependent on another table field
 
 Account component:
+
 1) User(**User_ID**, Email, Password, Card_details,...)
 
 2) Customer(**Customer_ID**, *User_ID*,...)
@@ -38,11 +39,13 @@ Account component:
 4) Manager(**Manager_ID**, *User_ID*,...)
 
 Activity component:
+
 5) ActivityType(**Activity_Type_ID**, Name, Description, Tags, Category, Minimum_Age, Maximum_Activity_Capacity, Hourly_Activity_Cost, Hourly_Activity_Price, |Valid_Composite_Roles|, Max_Staff, Min_Staff, Leisure_Center_Run)
 
 6) Activity(**Activity_ID**, *Activity_Type_ID*, *Facility_ID*, Start_DateTime, End_DateTime)
 
 Employee/Manager data component:
+
 7) Router(*Employee_ID*, *Activity_ID*, *Role_id*)
 
 8) Facility(**Facility_ID**, Name, Description, Max_Capacity)
@@ -50,6 +53,7 @@ Employee/Manager data component:
 9) Role(**Role_ID**, Role_Name, Description, Hourly_Pay)
 
 Transaction component:
+
 10) Receipt(**Receipt_ID**, *Customer_ID*, Total_Cost, Creation_Time)
 
 11) Booking(**Booking_ID**, *Activity_ID*, *Receipt_ID*)
