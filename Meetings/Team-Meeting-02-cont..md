@@ -50,7 +50,7 @@ Create sprint 1 backlog.\
 **Presenter:**\
 Jasmine\
 **Discussion:**\
-The group discusses which tasks should be moved from the project backlog to the print 1 backlog. \
+The group discusses which tasks should be moved from the project backlog to the sprint 1 backlog. \
 **Conclusion:**\
 Nine tasks are chosen and added to the sprint 1 backlog.
 
