@@ -199,6 +199,25 @@
 
 ---
 
+**Task:** Register as a new member of *Xercise4less* on web\
+**Users:** People with no prior experience on how \
+**Context & Technology:** User is trying to sign up during his lunch hour on his laptop, while having his lunch. He is somewhat distracted.\
+**Workflow (done with cognitive walkthrough):**
+
+| Step | Understand the Correct Action? | Perform? | Associate and Interpret? |
+|------|-----|------|-----|
+| 1. Google the website and click on the link to the homepage | **No** – not obvious that clicking on the map (occupied half of the screen) showing its location does not lead to the website. **[Low severity]** | Yes – user expected to be able to type and click                                                          | Yes – clicking on the link leads to the homepage                                                                                                                  |
+| 2. Click “Join Now”                                         | Yes – there is a big “Join Now” button in vibrant yellow at the centre of the screen, as well as at the top right corner                                                                                                                                                           | Yes – button functional                                                                                   | Yes – clicking on the button leads to another page, saying New Membership, which makes the purpose of this page clear                                             |
+| 3. Choose a gym close to user’s location                    | Yes – only a dropdown list telling the user to find a gym is shown.                                                                                                                                                                                                                | Yes – the dropdown list is responsive.                                                                    | Yes – upon choosing the gym location, the row gets “confirmed” by a tick next to the “Home Gym” field. The dropdown list also disappears.                         |
+| 4. Choose a membership type                                 | Yes – Brief description of each type is described.                                                                                                                                                                                                                                 | Yes – buttons responsive                                                                                  | Yes – clicking on the buttons turns the button green, while the old type turns grey to signal it has been deselected                                              |
+| 5. Choose a package                                         | **No** – despite a “Next steps” button with vibrant colours and good contrast with other elements is shown at the bottom right corner, it is not obvious that is the necessary action (e.g. user might expect choosing a membership type would have already led them to the next step) **[medium severity]** | Yes – the “Next Steps” button is functional                                                               | Yes – clicking on “Next steps” takes you to a page to fill in the account details.                                                                                |
+| 6. Fill in Account Details                                  | Yes – the fields that require filling has a classic white textbox look, alongside concise names of each field. | Yes – typing makes text appear                                                                            | **No** – upon filling in all details, nothing happens (making the “Next steps” button grey, then highlighting it when all the details are filled in would solve this) **[Low severity]** |
+|   | In addition, there is detection for whether the entered email address exists (not just by checking the domain name). This is potentially handled by the external website “thechecker.co” |  |  |
+| 7. Fill in Personal Details                                 | Yes – classic textbox & dropdown list indicate information needs to be filled in                                                                                                                                                                                                   | Yes – interacting with the widgets change their states in some way (e.g. button highlights, text appears) | **No** – upon filling in all details AND clicked on “Next Steps”, nothing changes **[high severity]** |
+|  |  |  | (This happened because the page was refreshed, and the selected gym choice was not stored) |
+| 8. Enter Payment Details                                    | Yes – classic textboxes and buttons indicate information needs to be filled in   | Yes – interaction functional | !! Research terminated – actual payment required !! |
+
+
 # Post-cognitive walkthrough heuristic evaluation
 
 Nielsen’s original heuristics for UIs:
