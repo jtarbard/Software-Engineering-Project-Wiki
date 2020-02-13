@@ -31,7 +31,7 @@ Meeting follow up from yesterday.\
 Jasmine\
 **Discussion:**\
 Lewis provides resources for learning Flask. Vincent agrees to organise version control. Several build and deploy software options are considered. \
-**Conclusion:**
+**Conclusion:**\
 It is agreed that build and deploy software will not be necessary for our project.
 
 ---
