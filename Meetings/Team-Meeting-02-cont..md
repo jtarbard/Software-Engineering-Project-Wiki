@@ -22,7 +22,7 @@ Dante will take notes and produce minutes for this meeting.
 
 | Action Items:  | Assignee(s): | Deadline: |
 |:-----------------------|:---------------------|:----------------|
-|Publish minutes for meeting|Dante|?|
+|Publish minutes for meeting|Dante|N/A|
 
 ---
 **Agenda Item:**\
@@ -46,7 +46,7 @@ A foundation for the database has been created and will be explained in further 
 
 ---
 **Agenda Item:**\
-Create sprint 1 backlog.\
+Pick out items from the project backlog to form our sprint 1 backlog.\
 **Presenter:**\
 Jasmine\
 **Discussion:**\
@@ -64,7 +64,7 @@ Vincent will add tasks from sprint backlog to issue tracker.
 
 | Action Items:  | Assignee(s): | Deadline: |
 |:-----------------------|:---------------------|:----------------|
-|Add tasks to issue tracker|Vincent|?|
+|Add tasks to issue tracker|Vincent|N/A|
 
 ---
 **Agenda Item:**\
