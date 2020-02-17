@@ -11,11 +11,13 @@
 | 7 | Tennis Court 2 |
 | 8 | Tennis Court 3 | 
 | 9 | Tennis Court 4 |
-| 11 | cell | 
-| 12 | cell | 
-| 13 | cell | 
-| 14 | cell | 
-| 10 | cell | 
-| 10 | cell | 
-| 10 | cell | 
-| 10 | cell | 
+| 10 | Squash Court 1 | 
+| 11 | Squash Court 2 | 
+| 12 | Squash Court 3 | 
+| 13 | Squash Court 4 | 
+| 14 | Outside Playing Field | 
+| 15 | External Environment | 
+| 16 | Studio Room 1 | 
+| 17 | Studio Room 2 | 
+| 18 | Sauna Room | 
+| 19 | Cafe | 
