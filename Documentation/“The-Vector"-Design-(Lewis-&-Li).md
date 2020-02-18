@@ -1,4 +1,4 @@
-***Facilities:***
+### Facilities:
 
 | No. | Facility | Capacity |
 | ------ | ------ | ------ |
@@ -23,7 +23,7 @@
 | 19 | Cafe | 
 
 
-***Activities:***
+### Activities:
 
 | No. | Activity | Facility |
 | ------ | ------ | ------ |
@@ -56,13 +56,14 @@
 | 27 | Personal Trainers | 1/2 |
 
 
-***Membership:***
+### Membership:
 
 | No. | Type | Activity | Facility |
 | ------ | ------ | ------ | ------ |
 | 1 | Standard | 4/12 | 16 |
 | 2 | Individual | 1/2/3/5/6/7/8/9/10/11/13/14/15/16/17/18/19/20/21/22/23/24/25/26/27 |
 
-**Please correct me, if I make any mistakes.
-And you are also free to edit all the tables above.
-Cheers**
+
+***Please correct me, if I make any mistakes.****\
+***And you are also free to edit all the tables above.****\
+***Cheers😘***
