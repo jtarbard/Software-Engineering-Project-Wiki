@@ -10,3 +10,4 @@ These are currently not recorded.
 |[Sprint 1, Planning Meeting - Project Brief Acknowledgement](/Meetings/Team-Meeting-02.1)|Yes|Yes|Yes|Yes|Yes|Yes|
 |[Sprint 1, Planning Meeting - Task Allocation](/Meetings/Team Meeting-02.2)|Yes|Yes|Yes|Yes|Yes|Yes|
 |Bi-daily Status Meeting #1|No|Yes|Yes|Yes|Yes|Yes|
+|Bi-daily Status Meeting #2|Yes|No|Yes|Yes|Yes|Yes|
