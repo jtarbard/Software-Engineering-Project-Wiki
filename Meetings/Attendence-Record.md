@@ -4,6 +4,8 @@ The bi-daily meetings are "stand-ups", mimicking the daily stand-ups in the Scru
 We discuss briefly about individual's progress, plans, and issues, all under 15 minutes.\
 These are currently not recorded.
 
+Currently, we have met up as a full group for pair programming sessions - the actual tasks are still done in pairs, but should there be any questions we can all openly discuss together.
+
 |Date|Meeting|Dante|Li|Jasmine|Jason|Lewis|Vincent|
 |----|------------------------|-----|---|-------|-----|-----|-------|
 |06/02/20|[Preliminary Meeting](/Meetings/Team-Meeting-01)|Yes|Yes|Yes|Yes|Yes|Yes|
