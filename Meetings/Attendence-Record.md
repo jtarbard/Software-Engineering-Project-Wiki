@@ -5,10 +5,11 @@ We discuss briefly about individual's progress, plans, and issues, all under 15 
 These are currently not recorded.
 
 |Date|Meeting|Dante|Li|Jasmine|Jason|Lewis|Vincent|
-|------------------------|-----|---|-------|-----|-----|-------|
-|TBA|[Preliminary Meeting](/Meetings/Team-Meeting-01)|Yes|Yes|Yes|Yes|Yes|Yes|
-|TBA|[Sprint 1, Planning Meeting - Project Brief Acknowledgement](/Meetings/Team-Meeting-02.1)|Yes|Yes|Yes|Yes|Yes|Yes|
-|TBA|[Sprint 1, Planning Meeting - Task Allocation](/Meetings/Team Meeting-02.2)|Yes|Yes|Yes|Yes|Yes|Yes|
-|17th Feb 2020|Bi-daily Status Meeting #1|No|Yes|Yes|Yes|Yes|Yes|
-|19th Feb 2020|Bi-daily Status Meeting #2|Yes|No|Yes|Yes|Yes|Yes|
-|21st Feb 2020|Bi-daily Status Meeting #3|No|Yes|Yes|Yes|No|Yes|
+|----|------------------------|-----|---|-------|-----|-----|-------|
+|06/02/20|[Preliminary Meeting](/Meetings/Team-Meeting-01)|Yes|Yes|Yes|Yes|Yes|Yes|
+|11/02/20|[Sprint 1, Planning Meeting - Project Brief Acknowledgement](/Meetings/Team-Meeting-02.1)|Yes|Yes|Yes|Yes|Yes|Yes|
+|12/02/20|[Sprint 1, Planning Meeting - Task Allocation](/Meetings/Team Meeting-02.2)|Yes|Yes|Yes|Yes|Yes|Yes|
+|17/02/20|Bi-daily Status Meeting #1|No|Yes|Yes|Yes|Yes|Yes|
+|19/02/20|Bi-daily Status Meeting #2|Yes|No|Yes|Yes|Yes|Yes|
+|21/02/20|Bi-daily Status Meeting #3|No|Yes|Yes|Yes|No|Yes|
+|23/02/20|Pair Programming|Yes|Yes|Yes|Yes|Yes|Yes|
