@@ -88,3 +88,4 @@ Commit [messages](https://chris.beams.io/posts/git-commit/) should be:
 * For commits, there is some way to write a body. Check [this](https://chris.beams.io/posts/git-commit/) out if you want more knowledge.
 * `git clean -f -d`
 * Merge commands
+* `git stash`
