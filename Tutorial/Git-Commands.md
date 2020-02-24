@@ -52,6 +52,10 @@ Commit [messages](https://chris.beams.io/posts/git-commit/) should be:
 * Conclusive
 * In imperative mood (e.g. "Create customer homepage" rather than "Create**d** customer homepage")
 
+Tricks for commit messages:
+* Stating "Fix #[issue_number}" resolves that issue (moves it to Closed). e.g. `Fix #1`
+* Stating "#[issue_number]" in general allows hovering for more info on that issue in a browser. e.g. #3
+
 | Description | Command |
 |---|---|
 | Ah, our favourite command | `git commit -m "[message]"` |
