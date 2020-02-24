@@ -76,16 +76,15 @@ Commit [messages](https://chris.beams.io/posts/git-commit/) should be:
 |---|---|
 | Display available branches in this repository. | `git branch` |
 | Delete the **not-yet-pushed** local branch [local_branch_name]. | `git branch -d [local_branch_name]` |
+| Update local branch list to meet the remote branch list. | `git fetch -p` |
 
 
 
-### Pushing
-| Description | Command |
-|---|---|
-| Push all
 
 
 # To be documented/tested
 * Force git pull: https://itsyndicate.org/blog/how-to-use-git-force-pull-properly/
 * `git revert ...`
 * For commits, there is some way to write a body. Check [this](https://chris.beams.io/posts/git-commit/) out if you want more knowledge.
+* `git clean -f -d`
+* Merge commands
