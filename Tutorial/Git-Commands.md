@@ -31,8 +31,8 @@ Everyone is encouraged to add commands / correct the knowledge here, alongside w
 
 
 ### Before/While adding files for a commit
-There are some tricks in cmd for your to add/remove files precisely and quickly:
-*  `[folder_name]/.` Adds all the (not-ignored) files under [folder_name].
+There are some tricks in cmd for you to add/remove files precisely and quickly:
+*  `[folder_name]/.` Refers to all the (not-ignored) files under [folder_name].
 *  `*.[extension]` Wildcard. For example, `*.pyc` refers to all files that has the extension `.pyc`.
 
 | Description | Command |
