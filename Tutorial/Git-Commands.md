@@ -93,3 +93,5 @@ Tricks for commit messages:
 * `git clean -f -d`
 * Merge commands
 * `git stash`
+* https://sethrobertson.github.io/GitFixUm/fixup.html#committedp
+* Merge conflicts: https://easyengine.io/tutorials/git/git-resolve-merge-conflicts/
