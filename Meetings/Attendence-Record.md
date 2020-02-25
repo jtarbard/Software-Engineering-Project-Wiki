@@ -11,7 +11,9 @@ Currently, we have met up as a full group for pair programming sessions - the ac
 |06/02/20|[Preliminary Meeting](/Meetings/Team-Meeting-01)|Yes|Yes|Yes|Yes|Yes|Yes|
 |11/02/20|[Sprint 1, Planning Meeting - Project Brief Acknowledgement](/Meetings/Team-Meeting-02.1)|Yes|Yes|Yes|Yes|Yes|Yes|
 |12/02/20|[Sprint 1, Planning Meeting - Task Allocation](/Meetings/Team Meeting-02.2)|Yes|Yes|Yes|Yes|Yes|Yes|
-|17/02/20|Bi-daily Status Meeting #1|No|Yes|Yes|Yes|Yes|Yes|
-|19/02/20|Bi-daily Status Meeting #2|Yes|No|Yes|Yes|Yes|Yes|
-|21/02/20|Bi-daily Status Meeting #3|No|Yes|Yes|Yes|No|Yes|
+|17/02/20|Bi-daily Status Meeting No.1|No|Yes|Yes|Yes|Yes|Yes|
+|19/02/20|Bi-daily Status Meeting No.2|Yes|No|Yes|Yes|Yes|Yes|
+|21/02/20|Bi-daily Status Meeting No.3|No|Yes|Yes|Yes|No|Yes|
 |23/02/20|Pair Programming|Yes|Yes|Yes|Yes|Yes|Yes|
+|25/02/20|Bi-daily Status Meeting No.4|No|Yes|Yes|Yes|Yes|Yes|
+|25/02/20|Pair Programming|No|Yes|Yes|Yes|Yes|Yes|
