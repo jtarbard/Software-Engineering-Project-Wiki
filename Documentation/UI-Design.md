@@ -12,9 +12,12 @@ This has been proven to be slightly too time-consuming to fit in one sprint:
 #### Result
 Nonetheless, this was still carried out partially to excite discussion and generate ideas for the homepages.
 
-@VincentLou's Wireframes, for Guest homepage:\
+@VincentLou's Wireframes, for Guest homepage:
+<details>
+<summary>Expand/Collapse images</summary>
 ![Wireframe_Guest_1](uploads/bd40d2be203cdb88edea49d64dcd854e/Wireframe_Guest_1.png)
 ![Wireframe_Guest_2](uploads/f76a526074d22b274869aae119cd7da2/Wireframe_Guest_2.png)
+</details>
 
 @sc18jt's Wireframes, for Customer homepages:\
 `[TBA]` but it looks fab
@@ -36,7 +39,10 @@ With an artboard, we can translate it directly to html code, but also leaving us
 #### Result
 
 @sc18jt's Artboard, for the Guest homepage:
+<details>
+<summary>Expand/Collapse images</summary>
 ![Artboard_Guest](uploads/b67a746006964499fad7d13a5d8acef4/Artboard_Guest.png)
+</details>
 
 #### Next Steps
 We have translated this successfully into html code, with the help of Bootstrap and Jinja2.
