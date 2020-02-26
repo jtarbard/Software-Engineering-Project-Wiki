@@ -1,0 +1,42 @@
+# Wireframe Prototype
+
+#### Idea
+The frontend pair intended to create a wireframe prototype of the homepages for Guest and Existing_Customer individually without interference, then combine both ideas to create the final wireframe prototype. Then, the wireframe prototype is evaluated and 
+
+#### Counter Arguments
+This has been proven to be slightly too time-consuming to fit in one sprint:
+* It reveals a long list of implicit design choices that should be carefully considered, e.g. cookie pop-up style, navbar behaviours;
+* Applying the same prototype technique for **every** page would be a lot of work that mostly goes to waste as wireframe prototypes are not deliverables. This also violates one of the Scrum framework principles;
+* Doing this iteratively, increasing the fidelity of the prototypes for **all** pages would also mean a lot of work that does not necessarily produce valuable deliverables. See above.
+
+#### Result
+Nonetheless, this was still carried out partially to excite discussion and generate ideas for the homepages.
+
+@VincentLou's Wireframes, for Guest homepage:\
+![Wireframe_Guest_1](uploads/bd40d2be203cdb88edea49d64dcd854e/Wireframe_Guest_1.png)
+![Wireframe_Guest_2](uploads/f76a526074d22b274869aae119cd7da2/Wireframe_Guest_2.png)
+
+@sc18jt's Wireframes, for Customer homepages:\
+`[TBA]` but it looks fab
+
+#### Next Steps
+We have skipped the formal combination of wireframe designs - we picked out the good bits in each design verbally and had come to an agreement. We have also skipped the formal evaluation + documentation in attempt to be agile.
+
+However, attempting to implement the semi-polished UI in the first Sprint would be quite difficult, so we decided to skip straight to a high-fidelity prototype, ![artboard](#high-fidelity-artboard), so we can easily translate it into html code.
+
+
+
+# High-fidelity Artboard
+
+#### Idea
+This is created in image editing softwares, such as Photoshop or Illustrator.
+
+With an artboard, we can translate it directly to html code, but also leaving us with a lot of freedom to fiddle with. Essentially, it will look like a snapshot of the website, unless we decide to change it significantly (notice translation is also an iteration of prototyping).
+
+#### Result
+
+@sc18jt's Artboard, for the Guest homepage:
+![Artboard_Guest](uploads/b67a746006964499fad7d13a5d8acef4/Artboard_Guest.png)
+
+#### Next Steps
+We have translated this successfully into html code, with the help of Bootstrap and Jinja2.
