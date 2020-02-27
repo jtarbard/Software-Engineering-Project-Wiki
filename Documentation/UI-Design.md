@@ -20,7 +20,11 @@ Nonetheless, this was still carried out partially to excite discussion and gener
 </details>
 
 @sc18jt's Wireframes, for Customer homepages:\
-`[TBA]` but it looks fab
+<details>
+<summary>Expand/Collapse images</summary>
+![The_Vertex-Homepage](uploads/f7c7cf24cc7221ea3672aceb1a01cbaf/The_Vertex-Homepage.jpg)
+![The_Vertex-Homepage_Navbar](uploads/4380d0955414c7f5f1732bc11e8b806b/The_Vertex-Homepage_Navbar.png)
+</details>
 
 #### Next Steps
 We have skipped the formal combination of wireframe designs - we picked out the good bits in each design verbally and had come to an agreement. We have also skipped the formal evaluation + documentation in attempt to be agile.
