@@ -15,6 +15,7 @@ Everyone is encouraged to add commands / correct the knowledge here, alongside w
 | Clone this repository. | `git clone git@gitlab.com:teem10/team10.git` |
 | Pull all the updates in the **current** branch. Note this does **NOT** overwrite your local changes. | `git pull` or `git pull origin [branch_name]` |
 | **Please** do this before you start any work. |  |
+| Overwrite local files with [branch_name]'s latest files. | `git fetch --all`, then `git reset --hard origin/[branch_name]` |
 
 
 
