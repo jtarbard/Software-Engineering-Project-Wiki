@@ -16,6 +16,7 @@ Everyone is encouraged to add commands / correct the knowledge here, alongside w
 | Pull all the updates in the **current** branch. Note this does **NOT** overwrite your local changes. | `git pull` or `git pull origin [branch_name]` |
 | **Please** do this before you start any work. |  |
 | Overwrite local files with [branch_name]'s latest files. | `git fetch --all`, then `git reset --hard origin/[branch_name]` |
+| Overwrite local files with [branch_name]'s latest files. | `git fetch --all`, then `git checkout -f [branch_name]` |
 
 
 
