@@ -1,3 +1,4 @@
+# Purpose
 This page will be updated every time a meeting is held.
 
 The bi-daily meetings are "stand-ups", mimicking the daily stand-ups in the Scrum framework.\
@@ -6,6 +7,7 @@ These are currently not recorded.
 
 Currently, we have met up as a full group for pair programming sessions - the actual tasks are still done in pairs, but should there be any questions we can all openly discuss together.
 
+# Sprint 1 Record
 |Date|Meeting|Dante|Li|Jasmine|Jason|Lewis|Vincent|
 |----|------------------------|-----|---|-------|-----|-----|-------|
 |06/02/20|[Preliminary Meeting](/Meetings/Team-Meeting-01)|Yes|Yes|Yes|Yes|Yes|Yes|
@@ -17,3 +19,9 @@ Currently, we have met up as a full group for pair programming sessions - the ac
 |23/02/20|Pair Programming|Yes|Yes|Yes|Yes|Yes|Yes|
 |25/02/20|Bi-daily Status Meeting No.4|No|Yes|Yes|Yes|Yes|Yes|
 |25/02/20|Pair Programming|No|Yes|Yes|Yes|Yes|Yes|
+|27/02/20|Demo with @cscmaw|Yes|Yes|Yes|Yes|Yes|Yes|
+
+# Sprint 2 Record
+|Date|Meeting|Dante|Li|Jasmine|Jason|Lewis|Vincent|
+|----|------------------------|-----|---|-------|-----|-----|-------|
+|TBA|TBA|Yes|Yes|Yes|Yes|Yes|Yes|
