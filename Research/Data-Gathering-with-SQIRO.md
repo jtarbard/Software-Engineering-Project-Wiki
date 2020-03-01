@@ -35,7 +35,7 @@ An interview with the manager of the Leeds Xercise4less gym was not carried out 
 
 # Research
 ### Xercise4less
-Some research was carried out on the gym "Xercise4less" for hints as to how a real company handles the management & technological issues. Here are a number of insights:
+Some research was carried out on the gym "Xercise4less" for hints as to how a real company handles the management & technological issues. Here is a number of insights:
 * Mobile App is completely inaccessible unless you have an account.
 * Password does not need to be supplied during account creation on web. There are 2 possible explanations:
   - Password is completely unnecessary (but this is proven to not be the case, as the mobile app requires password to authenticate the account login). Users are automatically logged on using locally cached data (e.g. cookies, mobile app cache)
