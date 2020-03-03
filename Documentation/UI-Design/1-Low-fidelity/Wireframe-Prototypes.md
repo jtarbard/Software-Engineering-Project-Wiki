@@ -17,7 +17,7 @@ Nonetheless, this was still carried out partially to excite discussion and gener
 ![Wireframe_Guest_2](uploads/f76a526074d22b274869aae119cd7da2/Wireframe_Guest_2.png)
 </details>
 
-@sc18jt's Wireframes, for Customer homepages:\
+@sc18jt's Wireframes, for Customer homepages:
 <details>
 <summary>Expand/Collapse images</summary>
 ![The_Vertex-Homepage](uploads/f7c7cf24cc7221ea3672aceb1a01cbaf/The_Vertex-Homepage.jpg)
