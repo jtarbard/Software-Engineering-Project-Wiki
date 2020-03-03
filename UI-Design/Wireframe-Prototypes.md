@@ -1,5 +1,3 @@
-# Wireframe Prototype
-
 #### Idea
 The frontend pair intended to create a wireframe prototype of the homepages for Guest and Existing_Customer individually without interference, then combine both ideas to create the final wireframe prototype. Then, the wireframe prototype is evaluated and 
 
@@ -29,24 +27,4 @@ Nonetheless, this was still carried out partially to excite discussion and gener
 #### Next Steps
 We have skipped the formal combination of wireframe designs - we picked out the good bits in each design verbally and had come to an agreement. We have also skipped the formal evaluation + documentation in attempt to be agile.
 
-However, attempting to implement the semi-polished UI in the first Sprint would be quite difficult, so we decided to skip straight to a high-fidelity prototype, ![artboard](#high-fidelity-artboard), so we can easily translate it into html code.
-
-
-
-# High-fidelity Artboard
-
-#### Idea
-This is created in image editing softwares, such as Photoshop or Illustrator.
-
-With an artboard, we can translate it directly to html code, but also leaving us with a lot of freedom to fiddle with. Essentially, it will look like a snapshot of the website, unless we decide to change it significantly (notice translation is also an iteration of prototyping).
-
-#### Result
-
-@sc18jt's Artboard, for the Guest homepage:
-<details>
-<summary>Expand/Collapse images</summary>
-![Artboard_Guest](uploads/b67a746006964499fad7d13a5d8acef4/Artboard_Guest.png)
-</details>
-
-#### Next Steps
-We have translated this successfully into html code, with the help of Bootstrap and Jinja2.
+However, attempting to implement the semi-polished UI in the first Sprint would be quite difficult, so we decided to skip straight to a high-fidelity prototype, ![/Documentation/UI Design/2 High-Fidelity/Artboard](#high-fidelity-artboard), so we can easily translate it into html code.
