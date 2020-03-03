@@ -20,8 +20,9 @@ Currently, we have met up as a full group for pair programming sessions - the ac
 |25/02/20|Bi-daily Status Meeting No.4|No|Yes|Yes|Yes|Yes|Yes|
 |25/02/20|Pair Programming|No|Yes|Yes|Yes|Yes|Yes|
 |27/02/20|Demo with @cscmaw|Yes|Yes|Yes|Yes|Yes|Yes|
+|02/03/20|Sprint 1 Review|Yes|Yes|Yes|Yes|Yes|Yes|
 
 # Sprint 2 Record
 |Date|Meeting|Dante|Li|Jasmine|Jason|Lewis|Vincent|
 |----|------------------------|-----|---|-------|-----|-----|-------|
-|TBA|TBA|Yes|Yes|Yes|Yes|Yes|Yes|
+|02/03/20|[Sprint 2, Planning Meeting](Link-To-Be-Added)|Yes|Yes|Yes|Yes|Yes|Yes|
