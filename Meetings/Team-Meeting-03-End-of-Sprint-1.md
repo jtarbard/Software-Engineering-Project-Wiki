@@ -13,15 +13,15 @@ End of sprint 1 review.
 **Agenda Item:**\
 Individual performance review.\
 **Presenter:**\
-Jasmine\
+Jasmine
 
 | Member: | The Good | The Bad |
 |:--------|:---------|:--------|
-|Dante|Refarmilarised self with relevant programming language.|Didn't do much work.|
+|Dante|Re-familiarised self with relevant programming language.|Didn't do much work.|
 |Lewis|Designed the architecture and did a lot of work.|Need better communication, commits, and programming comments.|
-|Vincent|Good wiki management.|Could have done more on imlementing features.|
+|Vincent|Good wiki management.|Could have done more on implementing features.|
 |Jason|Clean code|Inefficient work (repeated features)|
-|Li|Learned lots of pogramming skills.|Didn't do lots of work.|
+|Li|Learned lots of programming skills.|Didn't do lots of work.|
 |Jasmine|Researched and followed some scrum guidelines.|Not formal enough in my organisation.|
 ---
 **Agenda Item:**\
