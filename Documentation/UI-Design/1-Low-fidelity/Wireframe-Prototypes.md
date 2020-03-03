@@ -27,4 +27,4 @@ Nonetheless, this was still carried out partially to excite discussion and gener
 #### Next Steps
 We have skipped the formal combination of wireframe designs - we picked out the good bits in each design verbally and had come to an agreement. We have also skipped the formal evaluation + documentation in attempt to be agile.
 
-However, attempting to implement the semi-polished UI in the first Sprint would be quite difficult, so we decided to skip straight to a high-fidelity prototype, ![artboard](/Documentation/UI-Design/2-High-Fidelity/Artboard), so we can easily translate it into html code.
+However, attempting to implement the semi-polished UI in the first Sprint would be quite difficult, so we decided to skip straight to a high-fidelity prototype, [artboard](/Documentation/UI-Design/2-High-Fidelity/Artboard), so we can easily translate it into html code.
