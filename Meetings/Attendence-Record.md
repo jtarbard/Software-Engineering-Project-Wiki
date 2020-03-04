@@ -27,5 +27,5 @@ In sprint 1, we have met up as a full group for pair programming sessions - the 
 # Sprint 2 Record
 |Date|Meeting|Dante|Li|Jasmine|Jason|Lewis|Vincent|
 |----|------------------------|-----|---|-------|-----|-----|-------|
-|02/03/20|[Sprint 2, Planning Meeting](/Meetings/Team-Meeting-03-End-of-Sprint-1)|Yes|Yes|Yes|Yes|Yes|Yes|
+|02/03/20|[Sprint 2, Planning Meeting](/Meetings/Team-Meeting-04)|Yes|Yes|Yes|Yes|Yes|Yes|
 |04/03/20|Bi-daily Status Meeting No.1|Yes|Yes|Yes|Yes|No|Yes|
