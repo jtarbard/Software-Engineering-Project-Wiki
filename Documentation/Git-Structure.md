@@ -1,15 +1,15 @@
 # Suggested Branching Behvaiour for Sprint 2
 ```mermaid
 graph TD
-  master[fa:fa-lock master fa:fa-lock] --> sprint2(fa:fa-lock sprint2 fa:fa-lock)
-  sprint2 --> frontend(fa:fa-lock frontend fa:fa-lock)
-  sprint2 --> backend(fa:fa-lock backend fa:fa-lock)
+  master[LOCK <br> master] --> sprint2(LOCK <br> sprint2)
+  sprint2 --> frontend(LOCK <br> frontend)
+  sprint2 --> backend(LOCK <br> backend)
 
-  frontend --> populate[fa:fa-lock populate-relevant-pages fa:fa-lock]
-  backend --> payment[fa:fa-lock payment fa:fa-lock]
-  backend --> receipt[fa:fa-lock receipt fa:fa-lock]
-  backend --> booking[fa:fa-lock remaining-booking fa:fa-lock]
-  backend --> membership[fa:fa-lock membership fa:fa-lock]
+  frontend --> populate[LOCK <br> populate-relevant-pages]
+  backend --> payment[LOCK <br> payment]
+  backend --> receipt[LOCK <br> receipt]
+  backend --> booking[LOCK <br> remaining-booking]
+  backend --> membership[LOCK <br> membership]
 
   booking --> booking-iss46
   booking --> booking-iss47
