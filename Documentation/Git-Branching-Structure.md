@@ -31,7 +31,11 @@ graph TD
   sprint2 --> frontend(LOCK <br> frontend)
   sprint2 --> backend(LOCK <br> backend)
 
-  frontend --> populate[LOCK <br> populate-relevant-pages]
+  frontend --> pages[LOCK <br> populate-relevant-pages]
+
+  pages --> pages-iss51
+  pages --> pages-iss58
+
   backend --> payment[LOCK <br> payment]
   backend --> receipt[LOCK <br> receipt]
   backend --> booking[LOCK <br> remaining-booking]
@@ -41,10 +45,13 @@ graph TD
   booking --> booking-iss47
   booking --> booking-iss53
   booking --> booking-iss8
+  booking --> booking-iss9
+
+  style booking-iss8 fill:#00EE00
 
   payment --> payment-iss10
+  payment --> payment-iss11
   payment --> payment-iss48
-  payment --> payment-iss49
   
   receipt --> receipt-iss50
   receipt --> receipt-iss51
@@ -55,18 +62,30 @@ graph TD
 ```
 
 #### Available issue branches names:
-*  #46: booking-iss46
-*  #47: booking-iss47
-*  #53: booking-iss53
-*  #8: booking-iss8
-*  #10: payment-iss10
-*  #48: payment-iss48
-*  #49: payment-iss49
-*  #50: receipt-iss50
-*  #51: receipt-iss51
-*  #52: receipt-iss52
-*  #5: membership-iss5
-*  #6: membership-iss6
+- [ ] Remaining-Booking
+  - [ ] #46: booking-iss46
+  - [ ] #47: booking-iss47
+  - [ ] #53: booking-iss53
+  - [x] #8: booking-iss8
+  - [ ] #9: booking-iss9
+
+- [ ] Payment
+    - [ ] #10: payment-iss10
+    - [ ] #11: payment-iss11
+    - [ ] #48: payment-iss48
+
+- [ ] Receipt
+  - [ ] #50: receipt-iss50
+  - [ ] #51: receipt-iss51
+  - [ ] #52: receipt-iss52
+
+- [ ] Membership
+  - [ ] #5: membership-iss5
+  - [ ] #6: membership-iss6
+
+- [ ] Populate-Relevant-Pages
+  - [ ] #51: pages-iss51
+  - [ ] #58: pages-iss58
 
 # Foreseeable problems with this structure
 *  If a hotfix needs to be applied, it will need to **propagate** down to every single node, which will cause a ton of merge conflicts.
