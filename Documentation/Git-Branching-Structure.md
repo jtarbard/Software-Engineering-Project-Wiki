@@ -4,7 +4,7 @@
 Upon completion of an `issue` branch, the code should be reviewed by an external member/pair. Once it is approved, a merge request may be made.
 
 #### Note
-*  `Issue`/`Backlog` branches should only be created for the **essential** backlog items extracted from the spreadsheet. The lists of valid `issue` branches for each sprint are under each diagram.
+*  `Issue`/`Backlog` branches should only be created for the **essential** backlog items extracted from the spreadsheet. The lists of valid `issue` branches for each sprint are under each diagram. You can also derive this list by checking whether an issue has the "essential-backlog-item" label.
 
 *  `Issue`/`Backlog` branches should only be created when you are working on it that issue, because some issues might depend on other issues. Also, assign the issue to your lead (Jason/Lewis) before cracking on it!
 
