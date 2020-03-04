@@ -32,6 +32,9 @@ Old pairs will be replaced by two dynamic programming pairs led by Lewis and Jas
 The git structure is illustrated below, each pair will work on a single feature to completion and continue this cycle until all requirements are met.
 
 ![git](uploads/f2bf08a130320e1afc68297592330de8/git.png)
+
+Also see [Git Structure](/Documentation/Git-Structure).
+
 ---
 
 **Agenda Item:**\
