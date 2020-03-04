@@ -6,9 +6,7 @@ Upon completion of an `issue` branch, the code should be reviewed by an external
 #### Note
 *  `Issue`/`Backlog` branches should only be created for the **essential** backlog items extracted from the spreadsheet. The lists of valid `issue` branches for each sprint are under each diagram.
 
-*  `Issue`/`Backlog` branches should only be created when you are working on it that issue, because some issues might depend on other issues.
-
-*  `Issue`/`Backlog` branches should be created when you check the *major* issue out.
+*  `Issue`/`Backlog` branches should only be created when you are working on it that issue, because some issues might depend on other issues. Also, assign the issue to your lead (Jason/Lewis) before cracking on it!
 
 *  This design does **NOT** limit the branching behaviour at the `backlog` branches level. You can still stem out spaghetti branches (although not encouraged) in your own developing `backlog` branch, as long as you merge everything back into the parent node, with the singular feature you were meant to implement.
 
@@ -56,7 +54,7 @@ graph TD
   membership --> membership-iss6
 ```
 
-#### Available issue branches:
+#### Available issue branches names:
 *  #46: booking-iss46
 *  #47: booking-iss47
 *  #53: booking-iss53
