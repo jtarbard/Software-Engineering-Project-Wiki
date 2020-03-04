@@ -1,12 +1,12 @@
 ```mermaid
 graph TD
-  master[master] --> sprint2(sprint2)
-  sprint2 --> frontend(frontend)
-  sprint2 --> backend(backend)
+  master[master <br> LOCK] --> sprint2(sprint2 <br> LOCK)
+  sprint2 --> frontend(frontend <br> LOCK)
+  sprint2 --> backend(backend <br> LOCK)
 
-  frontend --> populate[populate-relevant-pages]
-  backend --> payment[payment]
-  backend --> receipt[receipt]
-  backend --> booking[remaining-booking]
-  backend --> membership[membership]
+  frontend --> populate[populate-relevant-pages <br> LOCK]
+  backend --> payment[payment <br> LOCK]
+  backend --> receipt[receipt <br> LOCK]
+  backend --> booking[remaining-booking <br> LOCK]
+  backend --> membership[membership <br> LOCK]
 ```
