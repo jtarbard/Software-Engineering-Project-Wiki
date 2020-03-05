@@ -128,7 +128,8 @@ We’ve got a huge range of group exercise classes for our members to make the m
 * **PERSONAL TRAINERS:**
 *As well as amazing equipment and an unbeatable range of classes, our Personal Trainers are the best in the business.
 You’ll find our trainers are all very approachable and friendly, but they’re also really challenging. Whether they’re running functional training and gym-floor classes or providing one-to-one Personal Training, they’ll push you and keep you motivated. You’ll be amazed just how soon you see real results.*
-* **:**
-**
-* **:**
-**
+# OTHER WEBSITES
+***LINK:*** https://www.lancaster.ac.uk/sport/sports-centre/classes/
+![Screenshot_2020-03-04_at_12.14.52](uploads/8a37395b6957dc4addd30cc39f1210a3/Screenshot_2020-03-04_at_12.14.52.png)
+***LINK:*** https://www.better.org.uk/leisure-centre/manchester/sugden-sports-centre/activities
+![Screenshot_2020-03-04_at_12.17.24](uploads/e2219ad3940490c48bf46d0d373b7003/Screenshot_2020-03-04_at_12.17.24.png)
