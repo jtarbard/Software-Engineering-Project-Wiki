@@ -116,5 +116,16 @@ We’ve got almost 200 superb badminton courts across the UK, as well as expert 
 *Whether you want to improve your technique, build your confidence or focus on one specific part of your game, you’ll definitely benefit from coaching. Our teams are second to none and can provide one-to-one lessons, group sessions for players of all ages, and also our high-energy, fast-paced cardio tennis workouts. We run several coaching programmes, from our Fast Track course for beginners, to our On Track and Power Track programmes that help you build your game and develop your stamina and confidence.*
 * **PADEL:** 
 *Available at selected clubs, this super-fast racquet sport is really popular in Spain and Latin America, and once you’ve tried it, you’ll know why. Something of a cross between squash and tennis, Padel is played on an enclosed court in pairs, and it's great fun! Not only is it super easy to pick up, but it's a really sociable sport too.*
-* **:** 
+### FITNESS:
+* **FITNESS CLASSES & EXERCISE FACILITIES:** 
+*We all know it’s so much easier to stay healthy when you enjoy yourself whilst working out. Updating our routine regularly to keep it fresh and challenging is key, and with so much on offer at our clubs, there’s always something new to try.*
+* **:**
+**
+* **:**
+**
+* **:**
+**
+* **:**
+**
+* **:**
 **
