@@ -91,8 +91,30 @@ There are some sports that do not fit into the families previously described. Go
 * **touchtennis**
 * **5-a-side football**
 * **Tennis**
-
-
-
-
-
+# DAVID LIOYD CLUBS
+***LINK:*** https://www.davidlloyd.co.uk/?gclid=Cj0KCQiAwP3yBRCkARIsAABGiPptEX6V3Rjz7VAXnamcrYlpP2dbWqvLYmks9GAC0ob-FvonZ0TRY90aAgvIEALw_wcB&gclsrc=aw.ds
+![Screenshot_2020-03-04_at_11.57.00](uploads/e00d82327415936096baaa540f5cef85/Screenshot_2020-03-04_at_11.57.00.png)
+### TENNIS & RACQUETS:
+* **PLAY TENNIS:** 
+*Racquet sports are where everything started here at David Lloyd Clubs, and we now have 30 years of experience giving members of all ages some first-rate coaching and amazing courts.
+Whether you’re an experienced player or a complete beginner, we’ve got everything you need to improve your game and increase your confidence. And our coaching, courts and expertise isn’t just in tennis – it also covers badminton, squash and Padel tennis too. If you’ve not played them yet, there really is no better place to start.*
+* **TENNIS TEAM:** 
+*If your child is looking to take their tennis skills to the next level, or they wish to improve their game by playing more competitively, now’s the perfect time to join our tennis team.
+Our inspiring coaches will help youngsters develop their skills and refine their technique to improve their all-round game.
+They’ll share amazing team experiences, meet new friends, train with the best and discover their competitive streak.*
+* **PLAYSIGHT SMART COURT TECHNOLOGY:** 
+*Have some serious fun on court and take your tennis to a whole new level. Available at selected clubs, Playsight smart court has been developed to enhance your tennis experience, whether that’s to help with coaching, to provide real-time scoring and match stats, or simply to revisit those epic points, stunning winners and comedy moments. Watch the video to learn more.*
+* **FUTURE STARS ARE BORN AT DAVID LLOYD CLUBS:** 
+*Given our love of tennis, it’s no surprise that our facilities are second to none. We’ve got the world’s largest team of qualified coaches, as well as 850 match-quality courts, both indoors and outdoors. It means you can have a lesson, play a match or practice your serve all year round, whatever the weather – and you can book courts in advance really quickly with our app too.
+There are also vibrant communities of tennis-lovers in our clubs, with competitions, weekly games and social events. It’s easy to find new people to play, whatever your level.*
+* **BADMINTON:** 
+*Badminton is a lightning-fast game where great tactics, good timing and being quick on your feet can soon see total beginners become regular winners. Every game has either two or four players, so it’s a really fun and sociable way to stay fit and get your heart pumping.
+We’ve got almost 200 superb badminton courts across the UK, as well as expert coaches and regular competitions, so whether you already love the game or are keen to get started, you’re in the ideal place.*
+* **SQUASH:** 
+*If you've got quick reflexes and love some healthy competition, squash is the sport for you. It will improve your speed, your strength and your reaction time, and it's sociable too (even when the competition is intense!).*
+* **COACHES:** 
+*Whether you want to improve your technique, build your confidence or focus on one specific part of your game, you’ll definitely benefit from coaching. Our teams are second to none and can provide one-to-one lessons, group sessions for players of all ages, and also our high-energy, fast-paced cardio tennis workouts. We run several coaching programmes, from our Fast Track course for beginners, to our On Track and Power Track programmes that help you build your game and develop your stamina and confidence.*
+* **PADEL:** 
+*Available at selected clubs, this super-fast racquet sport is really popular in Spain and Latin America, and once you’ve tried it, you’ll know why. Something of a cross between squash and tennis, Padel is played on an enclosed court in pairs, and it's great fun! Not only is it super easy to pick up, but it's a really sociable sport too.*
+* **:** 
+**
