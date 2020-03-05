@@ -119,12 +119,15 @@ We’ve got almost 200 superb badminton courts across the UK, as well as expert 
 ### FITNESS:
 * **FITNESS CLASSES & EXERCISE FACILITIES:** 
 *We all know it’s so much easier to stay healthy when you enjoy yourself whilst working out. Updating our routine regularly to keep it fresh and challenging is key, and with so much on offer at our clubs, there’s always something new to try.*
-* **:**
-**
-* **:**
-**
-* **:**
-**
+* **GYM:**
+*Within our clubs we've developed a brand new type of gym that integrates numerous types of training in a really social, open-plan layout. It’s divided into specialised zones – we have areas for cardio, free weights, weights machines, functional training and more.
+We've also got an amazing range of gym equipment and plenty of it too, so you'll rarely have to wait around for a specific piece of kit. Try our Woodway Curve treadmills, Octane trainers, Powermills, or Olympic lifting platforms. Plus, if functional training is more your thing, you'll love our SYNRGY360 areas which are essentially fun playgrounds bursting with accessories to add plenty of variety to your workouts.*
+* **GROUP EXERCISE CLASSES:**
+*Fitness classes provide a great way to vary your workout, try out new forms of exercise and stay motivated during a session. They’re also a great platform for getting to know fellow members and can really boost your confidence.
+We’ve got a huge range of group exercise classes for our members to make the most of, and we’re continually developing new classes to ensure our sessions remain fresh and exciting. They’re all delivered by friendly, top class instructors who’ll create a suitable atmosphere to help you feel the benefits of every session.*
+* **PERSONAL TRAINERS:**
+*As well as amazing equipment and an unbeatable range of classes, our Personal Trainers are the best in the business.
+You’ll find our trainers are all very approachable and friendly, but they’re also really challenging. Whether they’re running functional training and gym-floor classes or providing one-to-one Personal Training, they’ll push you and keep you motivated. You’ll be amazed just how soon you see real results.*
 * **:**
 **
 * **:**
