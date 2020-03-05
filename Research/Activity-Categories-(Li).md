@@ -1,4 +1,4 @@
-## The National Curriculum for Physical Education divides sport and sporting activities into six categories:
+# The National Curriculum for Physical Education divides sport and sporting activities into six categories:
 * **Games**
 * **Athletics**
 * **Gymnastics**
