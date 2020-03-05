@@ -31,3 +31,68 @@ Ice dancing can also be used as an entertainment medium, but it can also be perf
 There are some sports that do not fit into the families previously described. Golf, archery, bowls and shooting have little in common with the above families but form a family of their own - target sports. Other activities such as boxing, fencing, judo and karate form another family of combat sports although it could be argued that these too are target sports.
 ![Screenshot_2020-03-05_at_11.21.38](uploads/d389e4f270cf6ef80111e5d7fb9d19a6/Screenshot_2020-03-05_at_11.21.38.png)
 ![Screenshot_2020-03-05_at_11.20.30](uploads/28bc2ff13564b66877980294cb605a0d/Screenshot_2020-03-05_at_11.20.30.png)
+# LEISURE CENTRE
+***LINK:*** https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwiOlrDH3oDoAhWSQNMKHbOBCtAYABACGgJ3Yg&ohost=www.google.com&cid=CAESQeD2a-PzjtoCJVsx8QglUTyYHC1_Kb9GCkKaV-ydaWA-aCmBdPeMk0CyeWyo2RDrUH4DPqKTXKrq25MtqBZHuNhJ&sig=AOD64_3SGMpoS38yjXn9ISQw_bp_GRsmgw&q=&ved=2ahUKEwjzqaXH3oDoAhU5QkEAHT4dBT8Q0Qx6BAgYEAE&adurl=
+![Screenshot_2020-03-04_at_11.44.26](uploads/309a02dddf72078cf2a8fc31c82e1463/Screenshot_2020-03-04_at_11.44.26.png)
+### GYM
+*All of our customers are offered a tailored programme free of charge every 6 weeks. We provide you with the latest fitness equipment combined with group fitness classes that will leave you wanting more.*
+* **Personal Training**
+* **Aerobics Classes**
+* **Les Mills 'Body' Classes**
+* **Cardio Classes**
+* **Yoga**
+* **Spin**
+* **50+ Activities**
+* **Abs Classes**
+### SWIM
+*Our innovative pool programmes are designed for beginners in need of lessons or competitive swimmers taking advantage of our lane sessions. Mind you, it's not all hard work we also offer fantastic family fun sessions and children's pool parties!*
+* **Children's Swimming Lessons**
+* **Course Progress Tracker**
+* **Swim For Fitness**
+* **Swimming Clubs**
+* **Lifeguard Courses**
+* **Baby Swimming Lessons**
+* **Aqua Aerobics**
+* **Aqua Fit**
+* **Aqua Babies**
+* **Aqua Zumba**
+* **Aqua Jog**
+* **Adult Swimming Lessons**
+* **Diving Lessons**
+* **Fun Swimming**
+* **Swimfit**
+### DANCE
+*Sway Dance offers a wide range of dance programmes for all ages and abilities. Our inspiring instructors have been carefully chosen to ensure you can learn some new moves whilst receiving a decent workout and experiencing maximum enjoyment!*
+* **Sway Dance**
+* **Tap**
+* **Musical Theatre**
+* **Ballet**
+* **Zumba**
+* **Tea Dance**
+* **Street Dance**
+* **Ballet Tots**
+* **Bokwa**
+* **Ballroom**
+* **Cheerleading**
+### SPORT
+*With some of the most prestigious sports facilities in the United Kingdom we offer most sports you could think of. Whether you are trying a sport for the first time or have decided to start again, playing sport is a great way to get fit, stay healthy and meet new friends.*
+* **Handball**
+* **Hockey**
+* **Squash and Racketball**
+* **Tennis Xpress**
+* **Mini Tennis**
+* **Badminton**
+* **Basketball**
+* **Cardio Tennis**
+* **Athletics**
+* **Bikeability**
+* **Camp Adventure**
+* **Balanceability**
+* **touchtennis**
+* **5-a-side football**
+* **Tennis**
+
+
+
+
+
