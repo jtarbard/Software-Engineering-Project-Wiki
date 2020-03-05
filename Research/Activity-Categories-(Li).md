@@ -22,8 +22,12 @@ Gymnastic activities include activities such as floor work, vaulting, parallel b
 ![Screenshot_2020-03-04_at_14.02.52](uploads/ba3585c3ca2fd437a9efa948cc2e3d1b/Screenshot_2020-03-04_at_14.02.52.png)
 ## Outdoor pursuits
 Outdoor pursuits include activities such as climbing, mountaineering, sailing, canoeing, orienteering, windsurfing, surfing and mountain biking. Many of these activities could also fall into the category of athletics where their competitive forms are concerned with the fastest and first over the line. Examples of this are mountain bike racing, race sailing, canoe slalom and orienteering. Others can also fall into the gymnastic family, where movement replication is judged and marked during a competition. Examples of this are canoe rodeo and surfing.
+![outdoor-pursuits-calorie-infographic](uploads/bc4ea2072d9d961738b39ce2c8c376a2/outdoor-pursuits-calorie-infographic.jpg)
 ## Dance
 Dance is choreographed movement that is usually performed to music or some other external medium such as poetry, percussion or narrated story. Dance has a number of varieties and forms that include ballroom dancing, ballet, folk dancing and modern educational dance in schools. Some school proactively bring in professional multicultural artists, such as RSVP Bhangra to run mulitcultural school dance workshops. Dance is usually set in an entertainment environment and is performed purely for the pleasure. However, ballroom dancing can also be performed in a competition against other dancers.
 Ice dancing can also be used as an entertainment medium, but it can also be performed in competition figure skating that is judged in much the same way as gymnastic activities are judged. Britain has produced some world beating figure skaters, such as Robin Cousins and Torvil and Dean.
+![Screenshot_2020-03-05_at_11.16.45](uploads/b61c027dcc347beac50a75c837cb6c21/Screenshot_2020-03-05_at_11.16.45.png)
 ## Others
 There are some sports that do not fit into the families previously described. Golf, archery, bowls and shooting have little in common with the above families but form a family of their own - target sports. Other activities such as boxing, fencing, judo and karate form another family of combat sports although it could be argued that these too are target sports.
+![Screenshot_2020-03-05_at_11.21.38](uploads/d389e4f270cf6ef80111e5d7fb9d19a6/Screenshot_2020-03-05_at_11.21.38.png)
+![Screenshot_2020-03-05_at_11.20.30](uploads/28bc2ff13564b66877980294cb605a0d/Screenshot_2020-03-05_at_11.20.30.png)
