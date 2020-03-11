@@ -29,3 +29,6 @@ In sprint 1, we have met up as a full group for pair programming sessions - the 
 |----|------------------------|-----|---|-------|-----|-----|-------|
 |02/03/20|[Sprint 2, Planning Meeting](/Meetings/Team-Meeting-04)|Yes|Yes|Yes|Yes|Yes|Yes|
 |04/03/20|Bi-daily Status Meeting No.1|Yes|Yes|Yes|Yes|No|Yes|
+|06/03/20|Bi-Daily Status Meeting No.2|Yes|Yes|Yes|Yes|Yes|Yes|
+|09/03/20|Bi-Daily Status Meeting No.3|Yes|Yes|Yes|Yes|Yes|Yes|
+|11/03/20|Bi-Daily Status Meeting No.4|Yes|No|Yes|No|Yes|Yes|
