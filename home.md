@@ -3,7 +3,7 @@
 [Coding Standard](/Documentation/Coding-Standard)
 
 ## Git
-[Git Branching Structure](/Documentation/Git-Branching-Structure)
+[Git Branching Structure](/Documentation/Git-Branching-Structure)\
 [Git Commands](/Tutorial/Git-Commands)
 
 ## Content in Pages
