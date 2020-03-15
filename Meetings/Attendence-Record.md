@@ -32,3 +32,5 @@ In sprint 1, we have met up as a full group for pair programming sessions - the 
 |06/03/20|Bi-Daily Status Meeting No.2|Yes|Yes|Yes|Yes|Yes|Yes|
 |09/03/20|Bi-Daily Status Meeting No.3|Yes|Yes|Yes|Yes|Yes|Yes|
 |11/03/20|Bi-Daily Status Meeting No.4|Yes|No|Yes|No|Yes|Yes|
+|13/03/20|Demo with @amyl19|Yes|Yes|Yes|Yes|Yes|Yes|
+|15/03/20|[Sprint 2 Review](/Meetings/Team-Meeting-05-End-of-Sprint-2)|..|..|..|..|..|..|
