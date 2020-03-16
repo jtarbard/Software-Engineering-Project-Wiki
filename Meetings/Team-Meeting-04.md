@@ -33,7 +33,7 @@ The git structure is illustrated below, each pair will work on a single feature 
 
 ![git](uploads/f2bf08a130320e1afc68297592330de8/git.png)
 
-Also see [Git Structure](/Documentation/Git-Structure).
+Also see [Git Branching Structure](/Documentation/Git-Branching-Structure).
 
 ---
 
