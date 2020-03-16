@@ -36,3 +36,7 @@ Successes:
 * Improvements in git merging.
 * Improvements in pair programming.
 ---
+
+TODO: Add Burndown chart snapshot
+
+TODO: Mention [commit credit](/For-Markers/Commit-Credit)
