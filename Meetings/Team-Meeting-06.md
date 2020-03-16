@@ -40,7 +40,7 @@ Updated [Git Branching Structure](/Documentation/Git-Branching-Structure).
 **Agenda Item:**\
 Plans before the next stand-up meeting.\
 **Presenter:**\
-Vincent.\
+Jasmine.\
 **Conclusion:**\
 Lewis will refactor the backend code. Meanwhile, everyone else can research for good website designs and throw new ideas out. A (temporary?) colour scheme will be decided.
 
