@@ -12,7 +12,7 @@
         2. Branch out front `sprint3`, name the new branch `payment-iss10-backend`.
         3. Implement the backend functionality.
         4. Make a merge request, request to merge `payment-iss10-backend` into some branch (this could be `sprint3` or some other branch, say `booking-iss1000`).
-        5. If someone *DECIDE* to implement the **frontend** UI for the payment page, do
+        5. If someone *DECIDES* to implement the **frontend** UI for the payment page, do
           - a. **Close the merge request** for `payment-iss10-backend`.
           - b. Branch out from `payment-iss10-backend`, call the new branch `payment-iss10-full`.
           - c. Make the payment page.
