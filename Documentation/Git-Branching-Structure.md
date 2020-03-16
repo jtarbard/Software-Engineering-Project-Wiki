@@ -1,7 +1,51 @@
 # Sprint 3 Structure
-![20200311_145124](uploads/5f1d55078a303c4a70698a52e183542c/20200311_145124.jpg)
-![20200311_145129](uploads/ca2ff133343ff08c3958af19d5eb4b49/20200311_145129.jpg)
-![20200311_145135](uploads/b929e8744145ca4b94151b2e5e92d63b/20200311_145135.jpg)
+- There is no more frontend and backend "parent" nodes
+- There is no more category "parent" nodes
+- Branches have the following categories & naming conventions:
+  - Intermediate Merge Branch
+    - Code review 2 branches, and resolve any merge conflicts. This will be short-lived and merged into `sprint3` quickly.
+    - See [Merge Naming Convention Example](#merge-naming-convention-example)
+  - Issue Branch
+    - Case 1 - Full workflow feature
+      - E.g. The "simulated payment" feature needs to be implemented. There will be backend functionality, as well as the User Interface for the payment page.
+        1. The issue for this feature should have been created (it is usually an essential backlog item). Say this is issue #777.
+        2. Branch out front `sprint3`, name the new branch `payment-iss777-backend`.
+        3. Implement the backend functionality.
+        4. Make a merge request.
+        5a. Either: Commence code review and merge it into `sprint3`,
+        5b. Or: Implement the frontend UI
+      - Another example: ![20200311_145124](uploads/5f1d55078a303c4a70698a52e183542c/20200311_145124.jpg)
+    - Case 2 - Purely Backend feature
+      - E.g. Generate QR code for receipt
+        1. Create an issue for the task, say this will be issue #888.
+        2. Branch out from `sprint3`, name the new branch `facility-iss888-full`. 
+        3. Implement the feature.
+        4. Make a merge request.
+        5a. Either: Commence code review and merge it into `sprint3`,
+        5b. Or: Merge it with another issue branch, say `booking-iss1000`.
+        6. The branch is merged!
+    - Case 3 - Purely Frontend feature
+      - E.g. Put facility images
+        1. Create an issue for the task, say this will be issue #999. 
+        2. Branch out from `sprint3`, name the new branch `facility-iss999-full`. 
+        3. Implement the feature.
+        4. Make a merge request, request to merge `facility-iss999-full` into `sprint3`.
+        5. The `facility-iss999-full` branch will be merged ASAP.
+
+#### Merge Naming Convention Example
+(This is mostly for @VincentLou)
+
+#11 : Payment - Handle cash payment for booking (simulated)
+
+#6 : Membership - Cancel Memberships
+
+|Backend Done for #11?|Frontend Done for #11?|Backend Done for #6?|Frontend Done for #6?|Merge Branch Name|
+|:-------------------:|:--------------------:|:------------------:|:-------------------:|-----------------|
+|Yes|No |Yes|No |`merge-iss11-back-iss6-back`|
+|Yes|Yes|Yes|No |`merge-iss11-full-iss6-back`|
+|Yes|No |Yes|Yes|`merge-iss11-back-iss6-full`|
+|Yes|Yes|Yes|Yes|`merge-iss11-full-iss6-full`|
+
 
 # Revised Structure - Feature Branch
 `Issue`/`Backlog` branches (e.g. `payment-iss10`) stem from the locked `summary` branches (e.g. `payment`). Only 1 pair can work on an `issue`/`backlog` branch at any time, and only 1 person can commit & push to the branch. This is done so to avoid branch-internal merge conflicts.
@@ -52,8 +96,6 @@ graph TD
   booking --> booking-iss8
   booking --> booking-iss9
 
-  style booking-iss8 fill:#00EE00
-
   payment --> payment-iss10
   payment --> payment-iss11
   payment --> payment-iss48
@@ -71,7 +113,7 @@ graph TD
   - [ ] #46: booking-iss46
   - [ ] #47: booking-iss47
   - [ ] #53: booking-iss53
-  - [x] #8: booking-iss8
+  - [ ] #8: booking-iss8
   - [ ] #9: booking-iss9
 
 - [ ] Payment
