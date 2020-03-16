@@ -1,3 +1,8 @@
+# Sprint 3 Structure
+![20200311_145124](uploads/5f1d55078a303c4a70698a52e183542c/20200311_145124.jpg)
+![20200311_145129](uploads/ca2ff133343ff08c3958af19d5eb4b49/20200311_145129.jpg)
+![20200311_145135](uploads/b929e8744145ca4b94151b2e5e92d63b/20200311_145135.jpg)
+
 # Revised Structure - Feature Branch
 `Issue`/`Backlog` branches (e.g. `payment-iss10`) stem from the locked `summary` branches (e.g. `payment`). Only 1 pair can work on an `issue`/`backlog` branch at any time, and only 1 person can commit & push to the branch. This is done so to avoid branch-internal merge conflicts.
 
