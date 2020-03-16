@@ -21,7 +21,7 @@ Jasmine
 |Lewis|Got lots of work done.|Poor git usage.|
 |Vincent|||
 |Jason|||
-|Li|||
+|Li|Done much better works than last sprint.|Still need to do more works.|
 |Jasmine|Generated a burn-down chart so we can be more efficient.|Still struggling with making the meeting schedule clear.|
 ---
 **Agenda Item:**\
