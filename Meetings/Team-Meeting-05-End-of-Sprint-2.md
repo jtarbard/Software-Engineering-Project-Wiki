@@ -19,7 +19,7 @@ Jasmine
 |:--------|:---------|:--------|
 |Dante|Completed multiple tasks in a short space of time.|Contribution overall has been minimal.|
 |Lewis|Got lots of work done.|Poor git usage.|
-|Vincent|||
+|Vincent|Git management - prioritized issues, tags, consistent structure.|Very little participation in developing the essential features.|
 |Jason|||
 |Li|Done much better works than last sprint.|Still need to do more works.|
 |Jasmine|Generated a burn-down chart so we can be more efficient.|Still struggling with making the meeting schedule clear.|
