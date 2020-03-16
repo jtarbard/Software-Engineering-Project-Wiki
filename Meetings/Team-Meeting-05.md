@@ -18,7 +18,7 @@ Jasmine
 | Member: | The Good | The Bad |
 |:--------|:---------|:--------|
 |Dante|Completed multiple tasks in a short space of time.|Contribution overall has been minimal.|
-|Lewis|||
+|Lewis|Got lots of work done.|Poor git usage.|
 |Vincent|||
 |Jason|||
 |Li|||
