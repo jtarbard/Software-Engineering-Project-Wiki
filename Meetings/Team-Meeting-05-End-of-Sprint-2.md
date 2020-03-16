@@ -1,7 +1,7 @@
 # Team Meeting // 05 - End of Sprint 2
 **Date:** 13/03/20\
 **Time:** 13:00\
-**Location:** EC Stoner, Long Room\
+**Location:** Online, over MS Teams\
 **Author:** Jasmine
 ## Attendees
 Dante, Lewis, Li, Jasmine, Jason, Vincent.
