@@ -8,29 +8,33 @@
   - Issue Branch
     - Case 1 - Full workflow feature
       - E.g. The "simulated payment" feature needs to be implemented. There will be backend functionality, as well as the User Interface for the payment page.
-        1. The issue for this feature should have been created (it is usually an essential backlog item). Say this is issue #777.
-        2. Branch out front `sprint3`, name the new branch `payment-iss777-backend`.
+        1. The issue for this feature should have been created (it is usually an essential backlog item). Say this is issue #10.
+        2. Branch out front `sprint3`, name the new branch `payment-iss10-backend`.
         3. Implement the backend functionality.
-        4. Make a merge request.
-        5a. Either: Commence code review and merge it into `sprint3`,
-        5b. Or: Implement the frontend UI
+        4. Make a merge request, request to merge `payment-iss10-backend` into some branch (this could be `sprint3` or some other branch, say `booking-iss1000`).
+        5. If someone *DECIDE* to implement the **frontend** UI for the payment page, do
+          - a. **Close the merge request** for `payment-iss10-backend`.
+          - b. Branch out from `payment-iss10-backend`, call the new branch `payment-iss10-full`.
+          - c. Make the payment page.
+          - d. Make a new merge request, request to merge `payment-iss10-full` into some branch (this could be `sprint3` or some other branch, say `booking-iss1000`).
+        6. Commence code review. Resolve merge conflicts.
+        7. The branch is merged!
       - Another example: ![20200311_145124](uploads/5f1d55078a303c4a70698a52e183542c/20200311_145124.jpg)
     - Case 2 - Purely Backend feature
       - E.g. Generate QR code for receipt
         1. Create an issue for the task, say this will be issue #888.
         2. Branch out from `sprint3`, name the new branch `facility-iss888-full`. 
         3. Implement the feature.
-        4. Make a merge request.
-        5a. Either: Commence code review and merge it into `sprint3`,
-        5b. Or: Merge it with another issue branch, say `booking-iss1000`.
+        4. Make a merge request, request to merge `facility-iss888-full` into some branch (this could be `sprint3` or some other branch, say `booking-iss1000`).
+        5. Commence code review. Resolve merge conflicts.
         6. The branch is merged!
-    - Case 3 - Purely Frontend feature
+    - Case 3 - Purely Frontend feature / Frontend UI page for a merged backend functionality
       - E.g. Put facility images
         1. Create an issue for the task, say this will be issue #999. 
         2. Branch out from `sprint3`, name the new branch `facility-iss999-full`. 
         3. Implement the feature.
         4. Make a merge request, request to merge `facility-iss999-full` into `sprint3`.
-        5. The `facility-iss999-full` branch will be merged ASAP.
+        5. The `facility-iss999-full` branch will be merged ASAP (@VincentLou will do the frontend code review).
 
 #### Merge Naming Convention Example
 (This is mostly for @VincentLou)
