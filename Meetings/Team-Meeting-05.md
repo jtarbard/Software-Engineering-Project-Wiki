@@ -29,10 +29,7 @@ Team Review.\
 **Presenter:**\
 Jasmine\
 **Conclusion:**\
-Biggest issue in sprint 2:
-* None of note brought up in discussion.
-
-Other issues:
+Issues:
 * Lack of testing.
 
 Successes:
