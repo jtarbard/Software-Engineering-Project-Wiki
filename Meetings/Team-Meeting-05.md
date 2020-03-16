@@ -22,7 +22,7 @@ Jasmine
 |Vincent|||
 |Jason|||
 |Li|||
-|Jasmine|Generated a burn down so we can be more efficient.|Still struggling with making clear the meeting schedule.|
+|Jasmine|Generated a burn-down chart so we can be more efficient.|Still struggling with making clear the meeting schedule.|
 ---
 **Agenda Item:**\
 Team Review.\
