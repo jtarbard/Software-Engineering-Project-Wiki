@@ -1,0 +1,41 @@
+# Team Meeting // 05 - End of Sprint 1
+**Date:** 13/03/20\
+**Time:** 13:00\
+**Location:** EC Stoner, Long Room\
+**Author:** Jasmine
+## Attendees
+Dante, Lewis, Li, Jasmine, Jason, Vincent.
+
+## Agenda
+End of sprint 2 review.
+
+## Minutes
+**Agenda Item:**\
+Individual performance review.\
+**Presenter:**\
+Jasmine
+
+| Member: | The Good | The Bad |
+|:--------|:---------|:--------|
+|Dante|Completed multiple tasks in a short space of time.|Contribution overall has been minimal.|
+|Lewis|||
+|Vincent|||
+|Jason|||
+|Li|||
+|Jasmine|||
+---
+**Agenda Item:**\
+Team Review.\
+**Presenter:**\
+Jasmine\
+**Conclusion:**\
+Biggest issue in sprint 2:
+* None of note brought up in discussion.
+
+Other issues:
+* Lack of testing.
+
+Successes:
+* Improvements in git merging.
+* Improvements in pair programming.
+---
