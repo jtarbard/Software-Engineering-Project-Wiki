@@ -5,7 +5,7 @@ The bi-daily meetings are "stand-ups", mimicking the daily stand-ups in the Scru
 We discuss briefly about individual's progress, plans, and issues, all under 15 minutes.\
 These are currently not recorded.
 
-In sprint 2, we have revised the pair programming structure. See [Git Structure](/Documentation/Git-Structure).
+In sprint 2, we have revised the pair programming structure. See [Git Branching Structure](/Documentation/Git-Branching-Structure).
 
 In sprint 1, we have met up as a full group for pair programming sessions - the actual tasks are still done in pairs, but should there be any questions we can all openly discuss together.
 
@@ -33,4 +33,9 @@ In sprint 1, we have met up as a full group for pair programming sessions - the 
 |09/03/20|Bi-Daily Status Meeting No.3|Yes|Yes|Yes|Yes|Yes|Yes|
 |11/03/20|Bi-Daily Status Meeting No.4|Yes|No|Yes|No|Yes|Yes|
 |13/03/20|Demo with @amyl19|Yes|Yes|Yes|Yes|Yes|Yes|
-|15/03/20|[Sprint 2 Review](/Meetings/Team-Meeting-05-End-of-Sprint-2)|..|..|..|..|..|..|
+|15/03/20|[Sprint 2 Review](/Meetings/Team-Meeting-05-End-of-Sprint-2)|Yes|Yes|Yes|Yes|Yes|Yes|
+
+# Sprint 3 Record
+|Date|Meeting|Dante|Li|Jasmine|Jason|Lewis|Vincent|
+|----|------------------------|-----|---|-------|-----|-----|-------|
+|16/03/20|[Sprint 3, Planning Meeting](/Meetings/Team-Meeting-06)|No|Yes|Yes|Yes|Yes|Yes|
