@@ -1,4 +1,4 @@
-# Team Meeting // 05 - End of Sprint 1
+# Team Meeting // 05 - End of Sprint 2
 **Date:** 13/03/20\
 **Time:** 13:00\
 **Location:** EC Stoner, Long Room\
