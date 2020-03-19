@@ -31,6 +31,8 @@ Jasmine\
 **Conclusion:**\
 Issues:
 * Lack of testing.
+* Potential lack of momentum now that majority of work is functioning/complete.
+* Still poor utilisation of all members.
 
 Successes:
 * Improvements in git merging.
