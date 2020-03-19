@@ -39,6 +39,8 @@ Successes:
 * Improvements in pair programming.
 ---
 
-TODO: Add Burndown chart snapshot
+## Burndow Chart
+![Burndown_Chart_Sprint_2](uploads/efa9fe585e7008214720469181a8abc9/Burndown_Chart_Sprint_2.jpg)
+[Burndow Chart_.pdf](uploads/7c28b14e9a118571dc29f0261db3194d/SE_Project__For_Edits___Presentation_.pdf)
 
 TODO: Mention [commit credit](/For-Markers/Commit-Credit)
