@@ -1,3 +1,7 @@
+Before you do any work, run the automatic git cleaning script!\
+For Linux, do `bash git-clean.sh`.\
+For Windows, do TBA.
+
 # Relevant wiki pages for team members
 ### Coding
 [Coding Standard](/Documentation/Coding-Standard)
