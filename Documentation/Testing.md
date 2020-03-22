@@ -1,3 +1,6 @@
+# Note to self
+* Fixture: in `conftest.py`. E.g. `def new_item()`, pass fixtures in parameters and you can call them
+
 ## Login
 
 ## Register
@@ -17,3 +20,23 @@
 ## Store booking history (as receipts in database), display all booking history on demand
 
 ## Many-to-many database relationships
+
+## Buy membership (with duration)
+
+## Apply membership discount
+
+## Cash/Card payment simulation
+
+## Generate QR-code for receipts
+
+## Generate PDF for receipts
+
+## Mailing receipts
+
+## Search for activities between time slots, with specific activities names and facility usage
+
+## Cancel booking
+
+## Facility Images
+
+## Bulk book with discount
