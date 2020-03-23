@@ -9,6 +9,8 @@ Everyone is encouraged to add commands / correct the knowledge here, alongside w
 
 
 # Common commands with options
+This file might be useful. [Git cheat sheet](uploads/bf054f3424fdc074ff5be67564436dbe/gitcheat.pdf)
+
 ### Getting remote files from Git
 | Description | Command |
 |---|---|
@@ -97,3 +99,4 @@ Tricks for commit messages:
 * `git stash`
 * https://sethrobertson.github.io/GitFixUm/fixup.html#committedp
 * Merge conflicts: https://easyengine.io/tutorials/git/git-resolve-merge-conflicts/
+* Renaming a branch: https://stackoverflow.com/questions/6591213/how-do-i-rename-a-local-git-branch
