@@ -1,5 +1,7 @@
 # Note to self
 * Fixture: in `conftest.py`. E.g. `def new_item()`, pass fixtures in parameters and you can call them
+* `pytest --setup-show tests/functional/` shows how conftest.py is being called
+* `-v` probably means verbose. It shows PASS and FAILED for each test. Runs all tests.
 
 ## Login
 
