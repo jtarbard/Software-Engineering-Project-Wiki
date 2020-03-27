@@ -5,11 +5,24 @@
 
 My format (as of now):
 3 "categories/levels"
-1. Original - testing the written code works properly
+1. Basic - testing the explicitly handled cases (written code) works properly ( = intended handling behaviour )
 2. Extra - testing non-explicit cases works properly in the function
 3. Edge - weird and unconventional use of the routes. These are difficult tests but should still pass
 
 ## Login
+### Basic
+---
+- User logged in (cookies? ask lewis) - redirect to index page
+- No cookies
+- Behaviour: Has Basket cookie - remove the basket cookie, redirect to this route (runs this function) again
+(Shouldn't this be done when user logs off? redundant test (in a good way)?)
+- => Finally, render `login_register.html` with `page_type="login"`
+
+### Extra
+---
+
+### Edge
+---
 
 ## Register
 
