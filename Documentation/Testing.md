@@ -3,6 +3,12 @@
 * `pytest --setup-show tests/functional/` shows how conftest.py is being called
 * `-v` probably means verbose. It shows PASS and FAILED for each test. Runs all tests.
 
+My format (as of now):
+3 "categories/levels"
+1. Original - testing the written code works properly
+2. Extra - testing non-explicit cases works properly in the function
+3. Edge - weird and unconventional use of the routes. These are difficult tests but should still pass
+
 ## Login
 
 ## Register
