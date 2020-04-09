@@ -9,7 +9,7 @@ My format (as of now):
 2. Extra - testing non-explicit cases works properly in the function
 3. Edge - weird and unconventional use of the routes. These are difficult tests but should still pass
 
-## Login
+## Login (Outdated Done, assert flash as error msg)
 ### Basic
 ---
 - User logged in (cookies? ask lewis) - redirect to index page
@@ -24,15 +24,16 @@ My format (as of now):
 ### Edge
 ---
 
-## Register
+## Register (Outdated Done, assert flash as error msg)
 
 ## Preserved login state
 
-## Non-volatile Database
+## Non-volatile Database (Done)
+No Test.
 
 ## Database population script
 
-## Prototypical Homepage UI with page redirection
+## Prototypical Homepage UI with page redirection: Index page (TBUpdated)
 
 ## Viewing the full list of activities in the database
 
@@ -40,11 +41,9 @@ My format (as of now):
 
 ## Store booking history (as receipts in database), display all booking history on demand
 
-## Many-to-many database relationships
-
 ## Buy membership (with duration)
 
-## Apply membership discount
+## Apply membership discount (Done)
 
 ## Cash/Card payment simulation
 
@@ -60,4 +59,31 @@ My format (as of now):
 
 ## Facility Images
 
-## Bulk book with discount
+## Bulk book with discount (Done)
+
+- [ ] <Rule '/info/memberships/cancel' (HEAD, OPTIONS, GET) -> info.cancel_membership>
+- [ ] <Rule '/activities/types' (POST, HEAD, OPTIONS, GET) -> activities.view_activity_types>
+- [ ] <Rule '/account/view_statistics' (POST, HEAD, OPTIONS, GET) -> account.view_usages>
+- [ ] <Rule '/account/membership' (HEAD, OPTIONS, GET) -> account.view_account_membership>
+- [x] <Rule '/account/register' (HEAD, OPTIONS, GET) -> account.register_get>
+- [ ] <Rule '/account/receipts' (HEAD, OPTIONS, GET) -> account.view_account_receipts>
+- [ ] <Rule '/account/bookings' (HEAD, OPTIONS, GET) -> account.view_account_bookings>
+- [ ] <Rule '/account/details' (POST, HEAD, OPTIONS, GET) -> account.view_account_details>
+- [x] <Rule '/account/log_out' (HEAD, OPTIONS, GET) -> account.log_out>
+- [x] <Rule '/account/basket' (HEAD, OPTIONS, GET) -> basket.basket_view>
+- [x] <Rule '/account/login' (HEAD, OPTIONS, GET) -> account.login_get>
+- [ ] <Rule '/account/home' (HEAD, OPTIONS, GET) -> account.view_account>
+- [ ] <Rule '/account/card' (POST, HEAD, OPTIONS, GET) -> account.view_payment_details>
+- [x] **<Rule '/misc/policy_info' (HEAD, OPTIONS, GET) -> misc.policy_info_view>**
+- [ ] <Rule '/info/memberships' (HEAD, OPTIONS, GET) -> info.membership_view>
+- [ ] <Rule '/info/contact_us' (HEAD, OPTIONS, GET) -> info.contact_us_view>
+- [ ] <Rule '/info/facilities' (HEAD, OPTIONS, GET) -> info.facilities_view>
+- [ ] <Rule '/info/about' (HEAD, OPTIONS, GET) -> info.about_func>
+- [ ] <Rule '/misc/help' (HEAD, OPTIONS, GET) -> misc.help_view>
+- [x] **<Rule '/' (HEAD, OPTIONS, GET) -> index.index_func>**
+- [ ] <Rule '/transactions/view_individual_receipts/<receipt_id>' (HEAD, OPTIONS, GET) -> transaction.e_m_get>
+- [ ] <Rule '/transactions/receipts/<encrypted_receipt>' (HEAD, OPTIONS, GET) -> transaction.receipt_get>
+- [ ] <Rule '/activities/view_activities' (POST, HEAD, OPTIONS, GET) -> activities.view_activities>
+- [ ] <Rule '/activities/view_activity/<activity_id>' (HEAD, OPTIONS, GET) -> activities.view_activity>
+- [ ] <Rule '/activities/<sent_activity>_<multiple>' (POST, HEAD, OPTIONS, GET) -> activities.view_activities>
+- [ ] <Rule '/static/<filename>' (HEAD, OPTIONS, GET) -> static>
