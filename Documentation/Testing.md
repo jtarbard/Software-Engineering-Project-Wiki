@@ -24,16 +24,16 @@ My format (as of now):
 ### Edge
 ---
 
-## Register (Outdated Done, assert flash as error msg)
+## (Outdated Done, assert flash as error msg) Register
 
 ## Preserved login state
 
-## Non-volatile Database (Done)
+## (Done) Non-volatile Database
 No Test.
 
 ## Database population script
 
-## Prototypical Homepage UI with page redirection: Index page (TBUpdated)
+## (Outdated Done) Prototypical Homepage UI with page redirection: Index page
 
 ## Viewing the full list of activities in the database
 
@@ -41,9 +41,9 @@ No Test.
 
 ## Store booking history (as receipts in database), display all booking history on demand
 
-## Buy membership (with duration)
+## (Done) Buy membership (with duration)
 
-## Apply membership discount (Done)
+## (Done) Apply membership discount
 
 ## Cash/Card payment simulation
 
@@ -55,13 +55,12 @@ No Test.
 
 ## Search for activities between time slots, with specific activities names and facility usage
 
-## Cancel booking
+## (Done) Cancel booking
 
 ## Facility Images
 
-## Bulk book with discount (Done)
+## (Done) Bulk book with discount
 
-- [ ] <Rule '/info/memberships/cancel' (HEAD, OPTIONS, GET) -> info.cancel_membership>
 - [ ] <Rule '/activities/types' (POST, HEAD, OPTIONS, GET) -> activities.view_activity_types>
 - [ ] <Rule '/account/view_statistics' (POST, HEAD, OPTIONS, GET) -> account.view_usages>
 - [ ] <Rule '/account/membership' (HEAD, OPTIONS, GET) -> account.view_account_membership>
@@ -74,11 +73,13 @@ No Test.
 - [x] <Rule '/account/login' (HEAD, OPTIONS, GET) -> account.login_get>
 - [ ] <Rule '/account/home' (HEAD, OPTIONS, GET) -> account.view_account>
 - [ ] <Rule '/account/card' (POST, HEAD, OPTIONS, GET) -> account.view_payment_details>
-- [x] **<Rule '/misc/policy_info' (HEAD, OPTIONS, GET) -> misc.policy_info_view>**
-- [ ] <Rule '/info/memberships' (HEAD, OPTIONS, GET) -> info.membership_view>
+- [x] <Rule '/info/memberships' (HEAD, OPTIONS, GET) -> info.membership_view>
+- [x] <Rule '/info/memberships/cancel' (HEAD, OPTIONS, GET) -> info.cancel_membership>
+- [x] <Rule '/info/memberships/buy' (OPTIONS, POST) -> info.buy_membership>
 - [ ] <Rule '/info/contact_us' (HEAD, OPTIONS, GET) -> info.contact_us_view>
 - [ ] <Rule '/info/facilities' (HEAD, OPTIONS, GET) -> info.facilities_view>
 - [ ] <Rule '/info/about' (HEAD, OPTIONS, GET) -> info.about_func>
+- [x] **<Rule '/misc/policy_info' (HEAD, OPTIONS, GET) -> misc.policy_info_view>**
 - [ ] <Rule '/misc/help' (HEAD, OPTIONS, GET) -> misc.help_view>
 - [x] **<Rule '/' (HEAD, OPTIONS, GET) -> index.index_func>**
 - [ ] <Rule '/transactions/view_individual_receipts/<receipt_id>' (HEAD, OPTIONS, GET) -> transaction.e_m_get>
