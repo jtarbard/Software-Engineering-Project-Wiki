@@ -39,7 +39,8 @@ For Windows, do TBA.
 [Team Meeting 02.2](/Meetings/Team Meeting 02.2)\
 [Team Meeting 03 End of Sprint 1](/Meetings/Team Meeting 03 End of Sprint 1)\
 [Team Meeting 04](/Meetings/Team Meeting 04)\
-[Team Meeting 05](/Meetings/Team Meeting 05)\
+[Team Meeting 05 End of Sprint 2](/Meetings/Team Meeting 05 End of Sprint 2)\
+[Team Meeting 06](/Meetings/Team Meeting 06)\
 ... more to be found
 
 ## Research
