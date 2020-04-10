@@ -33,15 +33,15 @@ For Windows, do TBA.
 [Commit Credit](/For-Markers/Commit Credit)
 
 ## Meetings
-[Attendence Record](/Meetings/Attendence Record)
-[Team Meeting 01](/Meetings/Team Meeting 01)
-[Team Meeting 02.1](/Meetings/Team Meeting 02.1)
-[Team Meeting 02.2](/Meetings/Team Meeting 02.2)
-[Team Meeting 03 End of Sprint 1](/Meetings/Team Meeting 03 End of Sprint 1)
-[Team Meeting 04](/Meetings/Team Meeting 04)
-[Team Meeting 05](/Meetings/Team Meeting 05)
+[Attendence Record](/Meetings/Attendence Record)\
+[Team Meeting 01](/Meetings/Team Meeting 01)\
+[Team Meeting 02.1](/Meetings/Team Meeting 02.1)\
+[Team Meeting 02.2](/Meetings/Team Meeting 02.2)\
+[Team Meeting 03 End of Sprint 1](/Meetings/Team Meeting 03 End of Sprint 1)\
+[Team Meeting 04](/Meetings/Team Meeting 04)\
+[Team Meeting 05](/Meetings/Team Meeting 05)\
 ... more to be found
 
 ## Research
-[Inspiration Boards](/Research/Inspiration Boards)
+[Inspiration Boards](/Research/Inspiration Boards)\
 ... more to be found
