@@ -1,5 +1,9 @@
 #### Idea
-The frontend pair intended to create a wireframe prototype of the homepages for Guest and Existing_Customer individually without interference, then combine both ideas to create the final wireframe prototype. Then, the wireframe prototype is evaluated and 
+##### Sprint 1
+The frontend pair intended to create a wireframe prototype of the homepages for Guest and Existing_Customer individually without interference, then combine both ideas to create the final wireframe prototype. Then, the wireframe prototype is evaluated and
+
+##### Later Sprints
+Creating wireframe prototypes in general draws up some implementation theories, and allows team members to communicate effectively. So, we kept doing them when polishing the UI collaboratively.
 
 #### Counter Arguments
 This has been proven to be slightly too time-consuming to fit in one sprint:
@@ -10,19 +14,41 @@ This has been proven to be slightly too time-consuming to fit in one sprint:
 #### Result
 Nonetheless, this was still carried out partially to excite discussion and generate ideas for the homepages.
 
-@VincentLou's Wireframes, for Guest homepage:
+@VincentLou's Wireframes
+##### Guest homepage:
 <details>
-<summary>Expand/Collapse images</summary>
+<summary>Expand/Collapse</summary>
 ![Wireframe_Guest_1](uploads/bd40d2be203cdb88edea49d64dcd854e/Wireframe_Guest_1.png)
 ![Wireframe_Guest_2](uploads/f76a526074d22b274869aae119cd7da2/Wireframe_Guest_2.png)
 </details>
 
-@sc18jt's Wireframes, for Customer homepages:
+##### Booking page Iteration 2 (General UI refactor):
 <details>
-<summary>Expand/Collapse images</summary>
+<summary>Expand/Collapse</summary>
+![Booking_Iteration_2](uploads/9213347f2a30983577c4d8e26aaa5213/20200410_190226.jpg)
+</details>
+
+##### Booking page Iteration 3 (Behaviour):
+<details>
+<summary>Expand/Collapse</summary>
+![Booking_Iteration_3](uploads/6d2421458d067c847e994f22105301b0/20200414_103312.jpg)
+</details>
+
+---
+
+@sc18jt's Wireframes
+##### Customer homepages:
+<details>
+<summary>Expand/Collapse</summary>
 ![The_Vertex-Homepage](uploads/f7c7cf24cc7221ea3672aceb1a01cbaf/The_Vertex-Homepage.jpg)
 ![The_Vertex-Homepage_Navbar](uploads/4380d0955414c7f5f1732bc11e8b806b/The_Vertex-Homepage_Navbar.png)
 </details>
+
+---
+
+@sc18d2s 's Wireframes
+##### Basket page:
+`TBA`
 
 #### Next Steps
 We have skipped the formal combination of wireframe designs - we picked out the good bits in each design verbally and had come to an agreement. We have also skipped the formal evaluation + documentation in attempt to be agile.
