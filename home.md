@@ -1,6 +1,6 @@
 Before you do any work, run the automatic git cleaning script!\
 For Linux, do `bash git-clean.sh`.\
-For Windows, do TBA.
+For Windows, do `TBA`.
 
 # Relevant wiki pages for team members
 ### Coding
@@ -46,3 +46,7 @@ For Windows, do TBA.
 ## Research
 [Inspiration Boards](/Research/Inspiration Boards)\
 ... more to be found
+
+## External documentation during development
+[General Management](https://drive.google.com/open?id=1k-ubHstqQHhVJ7CCC1BqzZZpsBI-YF3zz7E-1m4k5d0)\
+[UI Research](https://drive.google.com/open?id=1dFHQ44MgV2HX5YGJOGtv00Ihh7cH_C_vOREMbwLKXu8)
