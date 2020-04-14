@@ -1,6 +1,6 @@
-# Idea
+# Motive
 ### Sprint 1
-The frontend pair intended to create a wireframe prototype of the homepages for Guest and Existing_Customer individually without interference, then combine both ideas to create the final wireframe prototype. Then, the wireframe prototype is evaluated and
+The frontend pair intended to create a wireframe prototype of the homepages for Guest and Existing_Customer individually without interference, then combine both ideas to create the final wireframe prototype. Then, each wireframe prototype is evaluated and converted into more detailed prototypes or gets translated into code.
 
 ### Later Sprints
 Creating wireframe prototypes in general draws up some implementation theories, and allows team members to communicate effectively. So, we kept doing them when polishing the UI collaboratively.
@@ -12,7 +12,7 @@ This has been proven to be slightly too time-consuming to fit in one sprint:
 * Doing this iteratively, increasing the fidelity of the prototypes for **all** pages would also mean a lot of work that does not necessarily produce valuable deliverables. See above.
 
 # Result
-Nonetheless, this was still carried out partially to excite discussion and generate ideas for the homepages.
+Nonetheless, this was still carried out partially to excite discussion and generate ideas for the pages.
 
 @VincentLou's Wireframes
 ### Guest homepage:
@@ -29,6 +29,7 @@ Nonetheless, this was still carried out partially to excite discussion and gener
 </details>
 
 ### Booking page Iteration 3 (Behaviour):
+Note: Perhaps the "expanding" behaviour can be changed to a Modal (pop up).
 <details>
 <summary>Expand/Collapse</summary>
 ![Booking_Iteration_3](uploads/6d2421458d067c847e994f22105301b0/20200414_103312.jpg)
