@@ -48,7 +48,10 @@ Note: Perhaps the "expanding" behaviour can be changed to a Modal (pop up).
 ---
 
 @sc18d2s 's Wireframes
-### Basket page:
+### Basket page Iteration 2 (General UI refactor):
+`TBA`
+
+### Basket page Iteration 3 (Accomodate activity sessions):
 `TBA`
 
 # Next Steps
