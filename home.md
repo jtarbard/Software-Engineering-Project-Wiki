@@ -45,6 +45,8 @@ For Windows, do `TBA`.
 
 ## Research
 [Inspiration Boards](/Research/Inspiration Boards)\
+[Data Gathering with SQIRO](/Research/Data-Gathering-with-SQIRO)\
+[Research on User Interface](/Research/Research-on-User-Interface)
 ... more to be found
 
 ## External documentation during development
