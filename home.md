@@ -63,5 +63,5 @@ GitLab's wiki is being weird and removed the "More Pages" button. All the wiki p
 [Git Commands](/Tutorial/Git-Commands)
 
 ## External documentation during development
-[General Management](https://drive.google.com/open?id=1k-ubHstqQHhVJ7CCC1BqzZZpsBI-YF3zz7E-1m4k5d0)\
-[UI Research](https://drive.google.com/open?id=1dFHQ44MgV2HX5YGJOGtv00Ihh7cH_C_vOREMbwLKXu8)
+[General Management - Link to Google Spreadsheet](https://drive.google.com/open?id=1k-ubHstqQHhVJ7CCC1BqzZZpsBI-YF3zz7E-1m4k5d0)\
+[UI Research - Link to Google Doc](https://drive.google.com/open?id=1dFHQ44MgV2HX5YGJOGtv00Ihh7cH_C_vOREMbwLKXu8)
