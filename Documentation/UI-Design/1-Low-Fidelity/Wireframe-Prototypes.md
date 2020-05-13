@@ -14,7 +14,7 @@ This has been proven to be slightly too time-consuming to fit in one sprint:
 # Result
 Nonetheless, this was still carried out partially to excite discussion and generate ideas for the pages.
 
-@VincentLou's Wireframes
+@VincentLou (sc18cwl)'s Wireframes
 ### Guest homepage:
 <details>
 <summary>Expand/Collapse</summary>
@@ -35,6 +35,21 @@ Note: Perhaps the "expanding" behaviour can be changed to a Modal (pop up).
 ![Booking_Iteration_3](uploads/6d2421458d067c847e994f22105301b0/20200414_103312.jpg)
 </details>
 
+### [Sprint Easter] Activities page:
+<details>
+<summary>Expand/Collapse</summary>
+![Activity_Type](uploads/8d3eebe42403500ae84bf84d3a0b5c9f/Activity_Type.png)
+</details>
+
+### [Sprint Easter] Booking page:
+<details>
+<summary>Expand/Collapse</summary>
+The booking page should show session descriptions.
+![Booking_description](uploads/aeef1c90b8bf87c62d2a762b97ad1b2a/Booking_description.png)
+The booking page should indicate regular booking progress as an incentive for customers to book more sessions
+![Booking_open](uploads/6591e5f84f11731bf315fec10850fdda/Booking_open.png)
+</details>
+
 ---
 
 @sc18jt's Wireframes
@@ -45,14 +60,21 @@ Note: Perhaps the "expanding" behaviour can be changed to a Modal (pop up).
 ![The_Vertex-Homepage_Navbar](uploads/4380d0955414c7f5f1732bc11e8b806b/The_Vertex-Homepage_Navbar.png)
 </details>
 
+### Booking page:
+<details>
+<summary>Expand/Collapse</summary>
+The booking page should indicate regular booking progress as an incentive for customers to book more sessions
+![Jasmine_Bulkbuy](uploads/e3f16cfab78f07fb02a5fec1c7e532a7/Jasmine_Bulkbuy.png)
+</details>
+
 ---
 
-@sc18d2s 's Wireframes
-### Basket page Iteration 2 (General UI refactor):
-`TBA`
-
-### Basket page Iteration 3 (Accomodate activity sessions):
-`TBA`
+@dantejsk (sc18d2s)'s Wireframes
+### Basket page Iteration 2 (during General UI refactor):
+<details>
+<summary>Expand/Collapse</summary>
+![Basket_Iteration_2](uploads/7b4aa2fdfe2634865822521004d95053/basket_it2.png)
+</details>
 
 # Next Steps
 We have skipped the formal combination of wireframe designs - we picked out the good bits in each design verbally and had come to an agreement. We have also skipped the formal evaluation + documentation in attempt to be agile.
