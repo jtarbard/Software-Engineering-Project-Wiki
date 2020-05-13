@@ -1,3 +1,6 @@
+# Purpose
+Because we are trying to adopt the Agile methodology (using the Scrum framework), not much code documentation is produced officially. Instead, they reside in the code itself as comments. Sometimes, they are not very straightforward and might not indicate what *exactly* is expected of a function. Therefore, tests for each `route` exist. They serve as another kind of official documentation that pinpoints the behaviour from a `route`. (Note: a `route` is a url that is redirected. You can "GET" or "POST" to a `route`, and hence they are worthy of integration testing.)
+
 # Note to self
 * Fixture: in `conftest.py`. E.g. `def new_item()`, pass fixtures in parameters and you can call them
 * `pytest --setup-show tests/functional/` shows how conftest.py is being called
