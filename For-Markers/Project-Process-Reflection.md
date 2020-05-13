@@ -5,36 +5,39 @@ This should have 2 parts and does not require huge detail. A target should be to
 ### Available Belbin roles and impact on team performance
 As recorded in the [first preliminary meeting](/Meetings/Team-Meeting-01) (conducted before sprint 1), we have the following Belbin roles available in our team:
 
-|Member  |Company Worker|Shaper|Completer/Finisher|Plant|Monitor/Evaluator|Chair|Team Worker|Resource Investigator|Specialist|
-|--------|--------------|------|------------------|-----|-----------------|-----|-----------|---------------------|----------|
-|Dante   |   |   |   |   | Secondary |   | Primary |  |  |
-|Li      |   | Secondary |   |   |  | Primary |  |  |  |
-|Jasmine |   | Primary |   | Secondary |  |   |  |  |  |
-|Jason   | Primary |   |   |   |  |   |  |  |  |
-|Lewis   |   |   | Primary |   |  | Secondary |  |  |  |
-|Vincent | Secondary |   |   | Primary |  |   |  |  |  |
+|Member  |CW|SH|CF|PL|ME|CH|TW|RI|SP|
+|--------|---|---|---|---|---|---|---|---|---|
+|Dante @sc18d2s   |   |   |   |   | Secondary |   | Primary |  |  |
+|Li @sc18hl       |   | Secondary |   |   |  | Primary |  |  |  |
+|Jasmine @sc18jt  |   | Primary |   | Secondary |  |   |  |  |  |
+|Jason @sc18z2h   | Primary |   |   |   |  |   |  |  |  |
+|Lewis @sc18lags  |   |   | Primary |   |  | Secondary |  |  |  |
+|Vincent @sc18cwl | Secondary |   |   | Primary |  |   |  |  |  |
 
-When we gave each person 3 points (2 for primary, 1 for secondary) to normalize and sum up the available Belbin roles as a team, we have the following:
+When we give each person 3 points (2 for primary, 1 for secondary) to normalize and sum up the available Belbin roles as a team, we have the following table for the type of roles (aggregated according to the table in FAQ, page 1 of [this](https://www.belbin.com/media/1336/belbin-for-students.pdf))
 
-| Role                  | Points | Comment |
-|-----------------------|--------|---------|
-| Company Worker        | 3      | 
-| Shaper                | 3      |
-| Plant                 | 3      |
-| Chair                 | 3      |
-| Completer/Finisher    | 2      |
-| Team Worker           | 2      |
-| Monitor/Evaluator     | 1      |
-| Resource Investigator | 0      |
-| Specialist            | 0      |
+| Type                                  | Points |
+|---------------------------------------|--------|
+| Action-Oriented Roles (CW, SH, CF)    | 8      |
+| People-Oriented Roles (CH, TW, RI)    | 5      |
+| Thinking-Oriented Roles (PL, ME, SP)  | 4      |
 
 ---
 
 ### What were the identified strengths of the team? 
+This team is almost 50% action-oriented. We are capable of doing things rather than carefully planning. This fits the Agile methodology well - iterative design, fail fast, embrace change, less long-term planning. We can interpret that our team will be well organized (due to CW); our team will (due to SH); we have an implicit guarantee that we will finish the project (due to CF). 
+
+**one more**
 
 ---
 
 ### What were the identified weaknesses? 
+#### Arose from low ratio of Role
+Since we only have 1 possible candidate (Dante) for both Monitor/Evaluator and Team Worker, our team lacks a strong foundation for making critical decisions (ME's strength). This would be extremely valuable during planning meetings as we define what we should achieve in a sprint. We might decide unrealistically or not fully consider the different possibilities carefully, causing us to overestimate what we could do in a sprint (and hence appear to underachieve); when implementing some feature, we might not be able to decide on a good solution, and hence requiring us to change the original solution over and over.\
+Our team might also not work harmoniously (TW's strength) enough - people might prefer to work separately, or even argue with each other on different opinions in how to do things. This implies integrating the work from each person (or each pair, since we will be doing pair programming) might be a difficult task.
+
+#### Arose from high ratio of role
+This team might be inflexible for change (due to CW); 
 
 ---
 
@@ -66,8 +69,10 @@ Doing things that were previously done physically, digitally, meant that there i
 
 ---
 
-### What tools or processes that you used functioned well in this environment and why?
-We used Microsoft Teams and Facebook's Messenger as the main channels of online communication. These worked naturally and 
+### Tools or processes that functioned well in this environment & Reasons
+We used Microsoft Teams and Facebook's Messenger as the main channels of online communication. These worked naturally and were seamlessly integrated into this new environment. This is mainly because we had been using them since Sprint 1, so we did not need to relearn how to use them again.
+
+For discussions that needed to be recorded, we used [Google Docs](https://drive.google.com/open?id=1dFHQ44MgV2HX5YGJOGtv00Ihh7cH_C_vOREMbwLKXu8) and [Google Spreadsheet](https://drive.google.com/open?id=1k-ubHstqQHhVJ7CCC1BqzZZpsBI-YF3zz7E-1m4k5d0). Again, we had been using them since Sprint 1, so they were easy to picking up on. Organizing ideas digitally is also more convenient than doing it with paper (although jogging notes down during a discussion is still more efficient on paper).
 
 ---
 
