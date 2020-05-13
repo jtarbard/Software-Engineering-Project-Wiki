@@ -1,5 +1,5 @@
 # To Markers (Mark and Amy, or perhaps some postgraduate student)
-**Please navigate to the [for markers](#for-markers) section. You will find what you need there.**
+**Please navigate to the [for markers](#for-markers) and [meetings](#meetings) section. You will find what you need there.**
 
 Before you do any work, run the automatic git cleaning script!\
 For Linux, you can use `bash git-clean.sh`.\
