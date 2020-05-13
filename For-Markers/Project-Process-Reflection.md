@@ -46,6 +46,8 @@ To combat the identified weaknesses, we regularly met up and discussed our progr
 
 At times when we inevitably have conflicts, one of us would step down and listen to the others' opinion/idea, even if some of us are somewhat inflexible according to the Belbin roles.
 
+Unfortunately, some of us had to give up their primary Belbin roles to "fill the gap" in order for the team to work better together. Namely, Vincent sacrificed the position as a Plant, and took the position as a Shaper instead, because the team needed more motivation to push forward, surprisingly.
+
 ---
 # Impact due to the pandemic
 
