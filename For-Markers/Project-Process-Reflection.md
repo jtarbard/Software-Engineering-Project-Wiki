@@ -1,5 +1,3 @@
-This should have 2 parts and does not require huge detail. A target should be to make 2 distinct points against each question:
-
 # Belbin Roles
 
 ### Available Belbin roles and impact on team performance
@@ -84,8 +82,6 @@ For discussions that needed to be recorded, we used [Google Docs](https://drive.
 
 ### What tools or processes were more difficult and why?
 Because people refused to show up later on, our team size had basically shrunk down to 2 members. This naturally reduced our efficiency in polishing the project. Hence, in terms of working processes, we would frequently need to communicate with digital drawings. This posed great difficulty as one of us is very accustomed to drawing on paper - making this transition and still communicate as effectively as on paper was not easy.
-
-
 
 ---
 
