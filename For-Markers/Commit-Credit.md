@@ -7,4 +7,5 @@
 | Lewis    | sc18lags | Lewis Stuart        |
 | Vincent  | sc18cwl  | Chan Wai Lou        |
 
-TBA: Update and add screenshots from spreadsheet
+![cont_sh1](uploads/7d5470bb24c27360d05cd64be4dddc23/cont_sh1.png)
+![cont_sh2](uploads/5f482fcbcd4a57906599ccde0a8cc9bb/cont_sh2.png)
