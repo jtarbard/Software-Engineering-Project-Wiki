@@ -65,7 +65,10 @@ When we needed to demonstrate or discuss an idea, we couldn't simply draw on pap
 this also meant paper prototyping is much less efficient, as we could no longer pass around the design for everyone to see - we needed to take a photo of it (because some don't have scanners at home) and ask people to read it. When you don't shove the design that needs feedback to a person's face, but only *asking* people to read them individually online, they simply won't do it (whether they forgot or just don't have to motivation to do it) - just like the pile of emails that gets ignored in our mailboxes. While this is completely understandable, it meant the quality of communication has deteriorated a lot. Often, people can't get their ideas through to another person's head.
 
 #### Falling behind
-Doing things that were previously done physically, digitally, meant that there is extra overhead in the time taken to do them. We needed to get used to our new environment, new tools, and new formats of how to do things. Meanwhile, deadlines for other courseworks were closing in ruthlessly; some of us were mentally challenged and hence couldn't work as efficiently; 
+Doing things that were previously done physically, digitally, meant that there is extra overhead in the time taken to do them. We needed to get used to our new environment, new tools, and new formats of how to do things. Meanwhile, deadlines for other courseworks were closing in ruthlessly; some of us were mentally challenged and hence couldn't work as efficiently. Evidently, some of us wanted to focus on other parts of their lives after the announcement that this module will not have a numerical grade, so they simply opted to not work on this project anymore.
+
+#### The Positive Aspects
+Some of us had a different mindset. As the project's revised requirements turns into a blurred mist of goals, they wanted to take the project more seriously, and develop it as their portfolio piece. They elevate the requirements to another level and tried as best as they can, as the lockdown situation has granted them much more freedom and time to work on it. Even though they had to work online, they made up for it with frequent communication, working via Teams and willing to try out a wide range of different options, as well as collecting good designs for reference.
 
 ---
 
@@ -77,9 +80,11 @@ For discussions that needed to be recorded, we used [Google Docs](https://drive.
 ---
 
 ### What tools or processes were more difficult and why?
+Because people refused to show up later on, our team size has basically shrunk down to 2 members. This naturally reduced our efficiency in polishing the project.
 
 ---
 
 ### Briefly, what was the overall impact on the planned delivery of your product?
+Despite the pandemic, we were still able to complete all the essential requirements that are in the project backlog. However, we could not finish a lot of the side issues discovered during developing and testing (as shown in the issue tracker).
 
----
+We were unable to get feedback from Sprint 3 - which would have been immensely useful if we could do a review meeting with a module leader face-to-face, demonstrating the implemented functionality and design. We kept asking for a clarification on some requirement since the beginning of Sprint 2 by sending emails and hunting for Mark in person, but due to the pandemic, this was to no avail, and we interpreted the confusing requirement in our own way.
