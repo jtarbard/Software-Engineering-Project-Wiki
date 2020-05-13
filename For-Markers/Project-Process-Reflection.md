@@ -25,9 +25,9 @@ When we give each person 3 points (2 for primary, 1 for secondary) to normalize 
 ---
 
 ### What were the identified strengths of the team? 
-This team is almost 50% action-oriented. We are capable of doing things rather than carefully planning. This fits the Agile methodology well - iterative design, fail fast, embrace change, less long-term planning. We can interpret that our team will be well organized (due to CW); our team will (due to SH); we have an implicit guarantee that we will finish the project (due to CF). 
+This team is almost 50% action-oriented. We are capable of doing things rather than carefully planning. This fits the Agile methodology well - iterative design, fail fast, embrace change, less long-term planning. We can interpret that our team will be well organized (due to CW); we have an implicit guarantee that we will finish the project (due to CF). 
 
-**one more**
+Since we have a team member with Shaper as the primary role, she naturally became the ScrumMaster, where her manager-fitting personality (according to the role) can shine the best.
 
 ---
 
@@ -37,13 +37,14 @@ Since we only have 1 possible candidate (Dante) for both Monitor/Evaluator and T
 Our team might also not work harmoniously (TW's strength) enough - people might prefer to work separately, or even argue with each other on different opinions in how to do things. This implies integrating the work from each person (or each pair, since we will be doing pair programming) might be a difficult task.
 
 #### Arose from high ratio of role
-This team might be inflexible for change (due to CW); 
+This team might be inflexible for change (due to CW) - this is a really severe warning, as it violates the core of the Agile methodology. 
 
 ---
 
 ### What mitigation was required to ensure the team worked well together?
+To combat the identified weaknesses, we regularly met up and discussed our progress since the last 2 days, as well as holding pair programming sessions together as a team in DEC10. This helped our team bond together to ensure we can work harmoniously.
 
----
+At times when we inevitably have conflicts, one of us would step down and listen to the others' opinion/idea, even if some of us are somewhat inflexible according to the Belbin roles.
 
 ---
 # Impact due to the pandemic
@@ -80,7 +81,9 @@ For discussions that needed to be recorded, we used [Google Docs](https://drive.
 ---
 
 ### What tools or processes were more difficult and why?
-Because people refused to show up later on, our team size has basically shrunk down to 2 members. This naturally reduced our efficiency in polishing the project.
+Because people refused to show up later on, our team size had basically shrunk down to 2 members. This naturally reduced our efficiency in polishing the project. Hence, in terms of working processes, we would frequently need to communicate with digital drawings. This posed great difficulty as one of us is very accustomed to drawing on paper - making this transition and still communicate as effectively as on paper was not easy.
+
+
 
 ---
 
