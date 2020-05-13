@@ -7,5 +7,5 @@
 | Lewis    | sc18lags | Lewis Stuart        |
 | Vincent  | sc18cwl  | Chan Wai Lou        |
 
-![cont_sh1](uploads/7d5470bb24c27360d05cd64be4dddc23/cont_sh1.png)
+![image](uploads/21c21b2b7cdea628d68de7b7c68e4dcb/image.png)
 ![cont_sh2](uploads/5f482fcbcd4a57906599ccde0a8cc9bb/cont_sh2.png)
