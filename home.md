@@ -28,6 +28,7 @@ GitLab's wiki is being weird and removed the "More Pages" button. All the wiki p
 ## Documentation
 [Architecture Design](/Documentation/Architecture-Design)\
 [Coding Standard](/Documentation/Coding Standard)\
+[Demo Mode](/Documentation/Demo-Mode)\
 [Git Branching Structure](/Documentation/Git Branching Structure)\
 [Testing](/Documentation/Testing)\
 [Vertex Information Base](/Documentation/Vertex-Information-Base)\
@@ -42,7 +43,7 @@ GitLab's wiki is being weird and removed the "More Pages" button. All the wiki p
 [Artboard](/Documentation/UI-Design/2-High-Fidelity/Artboard)
 
 ## For Markers
-[Commit Credit](/For-Markers/Commit Credit)
+[Commit Credit](/For-Markers/Commit Credit)\
 [Project Process Reflection](/For-Markers/Project-Process-Reflection)
 
 ## Meetings
